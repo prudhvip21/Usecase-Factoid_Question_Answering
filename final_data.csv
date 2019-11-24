@@ -1,0 +1,5102 @@
+Question,matched_sentence,qform,ans_yn,adjective_match,noun_match,adv_match,verb_match,predictions
+Was Abraham Lincoln the sixteenth President of the United States?,"Abraham Lincoln
+
+
+
+Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.",was,yes,1,1,0,1,1
+Did Lincoln sign the National Banking Act of 1863?,"Abraham Lincoln's official White House portrait
+
+
+
+Lincoln appointed the following Justices to the Supreme Court of the United States:
+* Noah Haynes Swayne â 1862
+* Samuel Freeman Miller â 1862
+* David Davis â 1862
+* Stephen Johnson Field â 1863
+* Salmon P. Chase â Chief Justice â 1864
+
+
+
+*Revenue Act of 1861
+*Homestead Act
+*Morrill Land-Grant Colleges Act
+*Revenue Act of 1862
+*Pacific Railway Acts of 1862 and 1864
+*United States Department of Agriculture (1862)
+*National Banking Act of 1863
+*Revenue Act of 1864
+
+
+
+*West Virginia â 1863
+*Nevada â 1864
+
+
+
+
+In March 1860 in a speech in New Haven, Connecticut, Lincoln said, with respect to slavery, âWhenever this question shall be settled, it must be settled on some philosophical basis.",did,yes,0,1,0,1,1
+Did his mother die of pneumonia?,"Lincoln was only nine when his mother, then thirty-four years old, died of milk sickness.",did,no,0,1,0,1,1
+Did Lincoln beat John C. Breckinridge in the 1860 election?,"Thomas (1952) p 216; Reinhard H. Luthin, The First Lincoln Campaign (1944); Nevins vol 4;
+
+On November 6, 1860, Lincoln was elected as the 16th President of the United States, beating Democrat Stephen A. Douglas, John C. Breckinridge of the Southern Democrats, and John Bell of the new Constitutional Union Party.",did,yes,0,1,0,1,1
+Was Abraham Lincoln the first President of the United States?,"Abraham Lincoln
+
+
+
+Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.",was,no,1,1,0,1,1
+Did Lincoln start his political career in 1832?,"Young Abraham Lincoln
+
+Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly, as a member of the Whig Party.",did,yes,1,1,0,1,1
+Did Lincoln ever represent Alton & Sangamon Railroad?,"In one prominent 1851 case, he represented the Alton & Sangamon Railroad in a dispute with a shareholder, James A. Barret.",did,yes,0,1,0,0,0
+Did Lincoln win the election of 1860?,"As an outspoken opponent of the expansion of slavery in the United States, ""[I]n his short autobiography written for the 1860 presidential campaign, Lincoln would describe his protest in the Illinois legislature as one that 'briefly defined his position on the slavery question, and so far as it goes, it was then the same that it is now.""",did,yes,0,0,0,1,0
+Is it true that he became a professor in 1820?,In 1820 he became a professor of physics at the University of Turin.,is,yes,0,1,0,1,1
+Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?,"Amedeo Avogadro
+
+ 
+Caricature of Amedeo Avogadro
+Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.",was,yes,1,1,0,1,1
+"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?","Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont,  Italy.",was,yes,1,1,1,1,1
+Is he most noted for his contributions to the theory of molarity and molecular weight?,He is most noted for his contributions to the theory of molarity and molecular weight.,is,yes,1,1,1,1,1
+Was King Victor Emmanuel III there to pay homage to Avogadro ?,King Victor Emmanuel III was there to pay homage to Avogadro.,was,yes,0,1,1,1,1
+Is Avogadro 's number commonly used to compute the results of chemical reactions ?,Avogadro's number is commonly used to compute the results of chemical reactions.,is,yes,1,1,1,1,1
+Did the scientific community not reserve great attention to his theory ?,"The scientific community did not reserve great attention to his theory, so Avogadro's hypothesis was not immediately accepted when announced.",did,yes,1,1,1,1,1
+Can the title of this famous 1811 paper be roughly translated into english?,"The title of this famous 1811 paper can be roughly translated into English as ""Essay on Determining the Relative Masses of the Elementary Molecules of Bodies"".",can,yes,1,1,1,1,1
+Is it true that he published a collection in 1738?,At Nuremberg in 1733 he published a collection of 316 observations of the aurora borealis made by himself and others over the period 1716-1732.,is,no,0,1,0,1,1
+Is it true that thermometer had 100 for the freezing point?,His thermometer had 100 for the freezing point of water and 0 for the boiling point.,is,yes,0,1,0,1,1
+Was Celsius born in Uppsala in Sweden?,Celsius was born in Uppsala in Sweden.,was,yes,0,1,0,1,1
+"Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?","Anders Celsius (November 27, 1701   April 25, 1744) was a Swedish astronomer.",was,yes,1,1,0,1,1
+Is The Celsius crater on the Moon named after him?,The Celsius crater on the Moon is named after him.,is,yes,0,1,0,1,1
+Is the Celsius crater on the Moon named after him ?,The Celsius crater on the Moon is named after him.,is,yes,0,1,0,1,1
+Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?,His thermometer had 100 for the freezing point of water and 0 for the boiling point.,Not found,yes,1,1,0,1,1
+Was Celsius born in Uppsala in Sweden ?,Celsius was born in Uppsala in Sweden.,was,yes,0,1,0,1,1
+Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?,He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data).,did,yes,1,1,0,0,1
+Are beetles insects?,"beetle
+
+
+
+Beetles are a group of insects which have the largest number of species.",are,yes,0,1,0,1,1
+Can beetles be found in polar regions?,"Beetles can be found in almost all habitats, but are not known to occur in the sea or in the polar regions.",can,no,1,1,0,1,1
+Do beetles antennae function primarily as organs of smell?,"Beetles' antennae are primarily organs of smell, but may also be used to feel out a beetle's environment physically.",do,yes,0,1,1,1,1
+Are certain species of beetles considered pests?,"Certain species are agricultural pests, such as the Colorado potato beetle Leptinotarsa decemlineata, the boll weevil Anthonomus grandis, the red flour beetle Tribolium castaneum, and the mungbean or cowpea beetle Callosobruchus maculatus, while other species of beetles are important controls of agricultural pests.",are,yes,1,1,0,1,1
+Is a beetle's general anatomy uniform?,"The general anatomy of beetles is quite uniform, although specific organs and appendages may vary greatly in appearance and function between the many families in the order.",is,yes,1,1,0,1,1
+Are beetles endopterygotes?,"Scarabaeiform larva of the cockchafer, Melolontha melolontha
+
+Beetles are endopterygotes with complete metamorphosis.",are,yes,0,1,0,1,1
+"Is it possible that there are more than 350,000 species of beetles?","The four extant suborders of beetle are these:
+* Polyphaga is the largest suborder, containing more than 300,000 described species in more than 170 families, including rove beetles (Staphylinidae), scarab beetles (Scarabaeidae), blister beetles (Meloidae), stag beetles (Lucanidae) and true weevils (Curculionidae).",is,yes,1,1,0,1,1
+Is the Adephaga suborder larger than the Polyphaga suborder?,"The four extant suborders of beetle are these:
+* Polyphaga is the largest suborder, containing more than 300,000 described species in more than 170 families, including rove beetles (Staphylinidae), scarab beetles (Scarabaeidae), blister beetles (Meloidae), stag beetles (Lucanidae) and true weevils (Curculionidae).",is,no,0,1,0,1,1
+Do carrion beetles eat dung?,"This can range from dung, which is consumed by coprophagous species such as certain scarab beetles (family Scarabaeidae), to dead animals, which are eaten by necrophagous species such as the carrion beetles (family Silphidae).",do,no,0,1,0,1,1
+Are many beetles territorial?,Many beetles are territorial and will fiercely defend their small patch of territory from intruding males.,are,yes,1,1,0,1,1
+Are beetles endopterygotes with complete metamorphosis?,"Scarabaeiform larva of the cockchafer, Melolontha melolontha
+
+Beetles are endopterygotes with complete metamorphosis.",are,yes,1,1,0,1,1
+Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?,"Some of the journals specific to beetle research are:
+*The Coleopterist (United Kingdom beetle fauna)
+*The Coleopterists Bulletin (published by The Coleopterists Society)
+
+There is a thriving industry in the collection of beetle specimens for amateur and professional collectors.",is,yes,1,1,0,1,1
+Have coleopterists formed organisations to facilitate the study of beetles ?,Coleopterists have formed organisations to facilitate the study of beetles.,Not found,yes,0,1,0,1,1
+"Is the study of beetles called coleopterology , and its practitioners are coleopterists ?","Beetle collection at the Melbourne Museum, Australia
+The study of beetles is called coleopterology, and its practitioners are coleopterists.",is,yes,0,1,0,1,1
+May a single female lay from several dozen to several thousand eggs during her lifetime ?,A single female may lay from several dozen to several thousand eggs during her lifetime.,Not found,yes,1,1,0,1,1
+Can beetles be found in almost all habitats?,"Beetles can be found in almost all habitats, but are not known to occur in the sea or in the polar regions.",can,yes,0,1,1,1,1
+Was Calvin Coolidge the twenty-ninth vice president?,"Calvin Coolidge
+
+ 
+John Calvin Coolidge, Jr. (July 4 1872   January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).",was,no,0,1,0,1,1
+"Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?","Greenberg, 1â7
+
+
+
+John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont, on July 4 1872, the only U.S. President to be born on the fourth of July.",was,yes,1,1,0,1,1
+Did Coolidge graduate from Black River Academy?,"McCoy, 5; White, 11
+
+
+
+
+Coolidge graduated from Black River Academy, Vermont, but failed his initial entrance exam to Amherst College.",did,yes,1,1,0,1,1
+Was Coolidge the thirteenth President of the United States?,"Calvin Coolidge
+
+ 
+John Calvin Coolidge, Jr. (July 4 1872   January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).",was,no,1,1,0,1,1
+Was Calvin Coolidge Republican?,"Calvin Coolidge
+
+ 
+John Calvin Coolidge, Jr. (July 4 1872   January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).",was,yes,0,1,0,1,1
+Was Calvin Coolidge a governor of Massachusetts?,"* Coolidge, Arizona
+* Coolidge Dam
+* The Coolidge Effect
+* The SS President Coolidge
+
+
+
+
+*  Extensive essay on Calvin Coolidge and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs
+*  Calvin Coolidge birthplace, a Vermont State Historic Site
+*  Official White House biography
+*  Audio clips of Coolidge's speeches
+*  Calvin Coolidge Memorial Foundation
+*  Calvin Coolidge Presidential Library & Museum at Forbes Library, Northampton, MA
+*  Calvin Coolidge official Commonwealth of Massachusetts Governor Biography
+*  Prosperity and Thrift: The Coolidge Era at the Library of Congress
+*
+
+
+
+Related Wikipedia Articles
+
+President of the United States
+August 2
+1923
+March 4
+1929
+Charles G. Dawes
+Warren G. Harding
+Herbert Hoover
+Vice President of the United States
+March 4
+1921
+August 2
+1923
+Warren G. Harding
+Thomas R. Marshall
+Charles G. Dawes
+January 2
+1919
+January 6
+1921
+Channing H. Cox
+Samuel W. McCall
+Channing H. Cox
+Lieutenant Governor of Massachusetts
+January 6
+1916
+January 2
+1919
+Samuel W. McCall
+Grafton D. Cushing
+Channing H. Cox
+Plymouth, Vermont
+Vermont
+Northampton, Massachusetts
+Massachusetts
+Congregational church
+Grace Coolidge
+United States Republican Party
+July 4
+1872
+January 5
+1933
+President of the United States
+Vermont
+Massachusetts
+Boston Police Strike
+Vice President of the United States
+Warren G. Harding
+fiscal conservative
+Warren G. Harding#Administrative Scandals
+middle class
+laissez-faire
+Ronald Reagan
+Plymouth, Vermont
+Windsor County, Vermont
+Vermont
+July 4
+1872
+Independence Day (United States)
+New England
+Cambridge
+England
+Watertown, Massachusetts
+Massachusetts
+American Revolution
+Board of Selectmen
+Charles Allerton Coolidge
+Archibald Cary Coolidge
+Arthur Brown (Utah)
+United States Senate
+Olympia Brown
+American Indians
+justice of the peace
+tuberculosis
+Black River Academy
+Amherst College
+December 6
+2007
+St. Johnsbury Academy
+Phi Gamma Delta
+2007-05-18
+Phi Gamma Delta
+Dwight Morrow
+Charles E. Garman
+cum laude
+Northampton, Massachusetts
+law school
+Hampshire County, Massachusetts
+Grace Coolidge
+2007-05-18
+John Coolidge
+Republican Party (United States)
+William McKinley
+City Council
+Solicitor#United States
+Court clerk
+Board of Education
+Massachusetts House of Representatives
+Democratic Party (United States)
+Boston
+Massachusetts General Court
+Progressive Party (United States, 1912)
+women's suffrage
+Seventeenth Amendment to the United States Constitution
+Winthrop Murray Crane
+Henry Cabot Lodge
+mayor
+Massachusetts Senate
+Bread and Roses
+American Woolen Company
+Lawrence, Massachusetts
+Lawrence textile strike
+United States presidential election, 1912
+Theodore Roosevelt
+William Howard Taft
+Progressive Party (United States, 1912)
+President of the Massachusetts Senate
+Levi H. Greenwood
+demagogue
+Frank Stearns
+primary election
+Samuel W. McCall
+ticket balance
+List of Governors of Massachusetts
+Channing Cox
+Massachusetts House of Representatives
+fiscal conservatism
+Prohibition
+First World War
+Irish-American
+German-American
+Boston Police Department
+trade union
+Edwin U. Curtis
+American Federation of Labor
+September 4
+Andrew James Peters
+September 8
+September 15
+1919
+riot
+sympathy strike
+Massachusetts National Guard
+United States National Guard
+Samuel Gompers
+First Red Scare
+communist
+Russian Revolution of 1917
+Hungarian Soviet Republic
+German Revolution
+January 1
+1919
+child labor
+veto
+Near beer#Small beer
+Eighteenth Amendment to the United States Constitution
+1920 Republican National Convention
+Warren G. Harding
+Ohio
+Irvine Lenroot
+Wisconsin
+Oregon
+Wallace McCamant
+Vice President of the United States
+James M. Cox
+Franklin D. Roosevelt
+League of Nations
+Progressivism
+Marion, Ohio
+Upper South
+New York
+November 2
+1920
+January 18
+2007
+January 18
+2007
+Tennessee
+Reconstruction
+Grace Coolidge
+Dorothy Parker
+Ethel Barrymore
+August 2
+1923
+California
+Warren Harding#Death in office
+Coolidge Homestead
+notary public
+Oath of office#United States
+August 3
+1923
+United States District Court for the District of Columbia
+John J. Pershing
+C. Bascom Slemp
+Virginia
+White House Chief of Staff
+December 6
+1923
+Immigration Act of 1924
+Pennsylvania
+Washington Naval Treaty
+Adjusted Service Certificate Law
+Immigration Act of 1924
+signing statement
+Japanese people
+Revenue Act of 1924
+income tax
+estate tax
+gift tax
+1924 Republican National Convention
+June 10
+June 12
+1924
+Cleveland, Ohio
+Frank Orren Lowden
+Illinois
+Charles G. Dawes
+Nobel Peace Prize
+1924 Democratic National Convention
+New York City
+John W. Davis
+Charles W. Bryan
+Robert M. La Follette, Sr.
+Wisconsin
+Progressive Party (United States, 1924)
+White House
+bacteremia
+January 21
+2007
+January 21
+2007
+Roaring Twenties
+laissez-faire
+Robert Sobel
+federalism
+child labor
+World War I
+John F. Kennedy Library and Museum
+2006-03-08
+2007-05-18
+January 25
+1925
+Vice President of the United States
+Charles G. Dawes
+Andrew Mellon
+United States public debt
+McNary-Haugen Farm Relief Bill
+Herbert Hoover
+Great Mississippi Flood of 1927
+Hurricane Katrina
+May 15
+White House
+Woodrow Wilson
+League of Nations
+Permanent Court of International Justice
+reservation (law)
+Kellogg-Briand Pact
+Frank B. Kellogg
+Aristide Briand
+United Kingdom
+France
+Germany
+Italy
+Japan
+World War II
+Soviet Union
+Mexico
+Cristero War
+Dwight Morrow
+United States Ambassador to Mexico
+Havana
+Cuba
+United States occupation of Nicaragua
+United States occupation of Haiti
+History of the Dominican Republic#United States occupation
+Indian Citizenship Act of 1924
+citizenship
+October 22
+1924
+United States Secretary of Commerce
+Herbert Hoover
+Charles Curtis
+inauguration
+6 December
+1923
+12 February
+1924
+11 August
+1924
+Lee De Forest
+Phonofilm
+sound-on-film
+United States Secretary of the Treasury
+Andrew Mellon
+Sesquicentennial of American Independence Half Dollar
+Immigration Act of 1924
+Revenue Act of 1924
+Indian Citizenship Act of 1924
+Revenue Act of 1926
+Radio Act of 1927
+Revenue Act of 1928
+Chief Justice of the United States
+Harlan Fiske Stone
+President of the United States
+Vice President of the United States
+Charles G. Dawes
+United States Secretary of State
+Charles Evans Hughes
+Frank B. Kellogg
+United States Secretary of the Treasury
+Andrew Mellon
+United States Secretary of War
+John W. Weeks
+Dwight F. Davis
+Attorney General of the United States
+Harry M. Daugherty
+Harlan F. Stone
+John G. Sargent
+Postmaster General of the United States
+Harry S. New
+United States Secretary of the Navy
+Edwin C. Denby
+Curtis D. Wilbur
+United States Secretary of the Interior
+Hubert Work
+Roy O.",was,yes,0,1,0,1,1
+Is Calvin Jr. older than John Coolidge?,"Calvin Coolidge
+
+ 
+John Calvin Coolidge, Jr. (July 4 1872   January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).",is,no,0,1,0,1,1
+Did Coolidge get in Amherst College?,"At Amherst, Coolidge became a member of the Fraternity of Phi Gamma Delta and joined the College Republicans in 1892.",did,yes,0,1,0,1,1
+Was John Calvin Coolidge Jr. was born in Las Vegas?,"Greenberg, 1â7
+
+
+
+John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont, on July 4 1872, the only U.S. President to be born on the fourth of July.",was,no,0,1,0,1,1
+Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?,"Sobel, 107â110
+
+
+
+
+Coolidge was unopposed for the Republican nomination for Governor of Massachusetts in 1918.",was,yes,1,1,0,1,1
+Did Coolidge meet and marry Grace Anna Goodhue?,"Fuess, 74â81; McCoy 22â26
+
+
+
+
+In 1905 Coolidge met and married Grace Anna Goodhue, a local schoolteacher and fellow Vermonter.",did,yes,0,1,0,1,1
+Have there been other US presidents that have visited Cuba?,"The more well-known Coolidges, such as architect Charles Allerton Coolidge, and diplomat Archibald Cary Coolidge, were descended from other branches of the family that had stayed in Massachusetts.",Not found,no,1,0,0,1,0
+Did France cede nearly all of its colonies in Europe in 1763?,France ceded nearly all of its colonies in North America in 1763 after the Seven Years War.,did,yes,0,1,1,1,1
+Is Canada a member of the OECD?,"Canada is one of the world's wealthiest nations with a high per capita income, a member of the Organisation for Economic Co-operation and Development (OECD) and Group of Eight (G8).",is,yes,0,1,0,1,1
+Is Canada's official language Zulu?,"Official Bilingualism in Canada is law, defined in the Canadian Charter of Rights and Freedoms, the Official Languages Act, and Official Language Regulations; it is applied by the Commissioner of Official Languages.",is,no,1,1,0,1,1
+Is Canada bilingual?,"The Canada Act 1982 refers only to ""Canada"" and, as such, it is currently the only legal (and bilingual) name.",is,yes,0,0,0,1,0
+Did Canadian soldiers win the Battle of Vimy Ridge in 1917?,Canadian soldiers would win the Battle of Vimy Ridge in 1917.,did,yes,1,1,0,1,1
+Is an official language of Canada German?,"Official Bilingualism in Canada is law, defined in the Canadian Charter of Rights and Freedoms, the Official Languages Act, and Official Language Regulations; it is applied by the Commissioner of Official Languages.",is,no,1,1,0,1,1
+What is the largest religious group in Canada?,"By total area (including its waters), Canada is the second largest country in the world, after Russia, and largest on the continent.",is,no,1,1,0,1,1
+Is it true that it angered many residents of the thirteen colonies?,"To avert conflict in Quebec, the Quebec Act of 1774 expanded Quebec's territory to the Great Lakes and Ohio Valley, and re-established the French language, Catholic faith, and French civil law in Quebec; it angered many residents of the Thirteen Colonies, helping to fuel the American Revolution.",is,yes,1,1,0,1,1
+Is it true that provinces have a large degree of autonomy?,"Provinces have a large degree of autonomy from the federal government,  territories somewhat less.",is,yes,1,1,0,1,1
+Are Canada 's two official languages English and French ?,Canada's two official languages are  English and French.,are,yes,1,1,0,1,1
+Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?,Canada's official national sports are ice hockey (winter) and lacrosse (summer).,are,yes,1,1,0,1,1
+Is Canada a geographically vast and ethnically diverse country ?,Canada is a geographically vast and ethnically diverse country.,is,yes,1,1,1,1,1
+Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?,Mainland Nova Scotia came under British rule with the Treaty of Utrecht (1713); the Treaty of Paris (1763) ceded Canada and most of New France to Britain following the Seven Years' War.,did,no,1,1,0,0,1
+"Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?","Cartier used the word 'Canada' to refer to not only that village, but the entire area subject to Donnacona, Chief at Stadacona.",did,yes,1,1,1,1,1
+Did continental European immigrants not settle the prairies ?,"Under Liberal Prime Minister Wilfrid Laurier, continental European immigrants settled the prairies, and Alberta and Saskatchewan became provinces in 1905.",did,no,1,1,0,0,1
+Is it the world 's second largest country by total area?,"It is the world's second largest country by total area,    and shares land borders with the United States to the south and northwest.",is,yes,1,1,0,1,1
+Is a drake a male?,Duck is the common name for a number of species in the Anatidae family of birds.,is,yes,0,0,0,1,0
+"Do all ducks ""quack""?","Despite widespread misconceptions, most ducks other than female Mallards and domestic ducks do not ""quack""; for example, the scaup makes a noise like ""scaup"", which its name came from.",do,no,0,1,0,1,1
+Do ducks forage underwater?,Diving ducks and sea ducks forage deep underwater.,do,yes,0,1,0,0,0
+Is foie gras often made from ducks?,"Foie gras is often made using the liver of domestic ducks, rather than of geese.",is,yes,0,1,1,1,1
+Are diving ducks heavier tha dabbling ducks?,"To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly.",are,yes,0,1,0,0,0
+Are adult ducks fast fliers?,"Adult ducks are fast fliers, but may be caught on the water by large aquatic predators.",are,yes,0,1,0,1,1
+Are ducks an accepted presence in some populated areas?,Ducks have become an accepted presence in populated areas.,are,yes,1,1,0,1,1
+Is Egypt bordered by the Gaza Strip?,"Egypt is bordered by Libya to the west, Sudan to the south, and by the Gaza Strip and Israel to the east.",is,yes,0,1,0,1,1
+Is Egypt the most populated country in Africa?,"Egyptian farm
+
+Egypt is the most populated country in the Middle East and the second-most populous on the African continent, with an estimated 78 million people.",is,no,1,1,1,1,1
+Does Egypt have political influence in the Middle East?,"Factors such as population size, historical events, military strength, diplomatic expertise and a strategic geographical position give Egypt extensive political influence in Africa and the Middle East.",does,yes,1,1,0,1,1
+Are there a large number of Jews living in Egypt today?,"There are also tribal communities of Beja concentrated in the south-eastern-most corner of the country, and a number of Dom clans mostly in the Nile Delta and Faiyum who are progressively becoming assimilated as urbanization increases.",are,no,0,1,0,1,1
+Is Egypt in Asia?,"Egypt
+
+
+
+Egypt (Egyptian: Kemet; Coptic:   KÄ«mi;     ; Egyptian Arabic:  ), officially the Arab Republic of Egypt, is a country in North Africa that includes the Sinai Peninsula, a land bridge to Asia.",is,no,0,0,0,1,0
+Does Egypt receive the least rainfall in the world?,Egypt receives the least rainfall in the world.,does,yes,1,1,0,1,1
+Does Egypt's foreign policy operates along moderate lines?,Egypt's foreign policy operates along moderate lines.,does,yes,1,1,0,1,1
+Does snow fall in Egypt?,"Egypt
+
+
+
+Egypt (Egyptian: Kemet; Coptic:   KÄ«mi;     ; Egyptian Arabic:  ), officially the Arab Republic of Egypt, is a country in North Africa that includes the Sinai Peninsula, a land bridge to Asia.",does,yes,0,1,0,1,1
+Are elephants the largest land animals alive today?,"Elephants are mammals, and the largest land animals alive today.",are,yes,1,1,0,1,1
+Can an elephant kill a rhinoceros?,An elephant can use its trunk for a variety of purposes.,can,yes,0,0,0,1,0
+Are elephants good swimmers?,"elephant
+
+
+
+Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.",are,yes,0,1,0,1,1
+Are elephant populations in West Africa generally small and fragmented?,"Elephant populations in West Africa, on the other hand, are generally small and fragmented, and only account for a small proportion of the continental total.",are,yes,1,1,1,1,1
+Is the Asian elephant larger than the African?,The African is typically larger than the Asian and has a concave back.,is,no,1,0,0,1,0
+Is an elephant's skin tough?,An elephant's skin is extremely tough around most parts of its body and measures about 2.5 centimetres (1 in) thick.,is,yes,1,1,0,1,1
+Are elephants mammals?,"Elephants are mammals, and the largest land animals alive today.",are,yes,0,1,0,1,1
+Have elephants been used as working animals?,Elephants have been working animals used in various capacities by humans.,Not found,yes,0,1,0,1,1
+Do they prefer forested areas?,"They prefer forested areas and transitional zones, between forests and grasslands, where greater food variety is available.",do,yes,0,1,0,1,1
+Is an Asian elephant smaller than an African elephant?,The Asian elephant is smaller than the African.,is,yes,1,1,0,1,1
+Has tusklessness become a rare abnormality?,"Tusklessness, once a very rare genetic abnormality, has become a widespread hereditary trait.",Not found,no,1,1,0,1,1
+Were the treaties signed in 1947 and 1948 with the Ukraine?,"The treaties signed in 1947 and 1948 with the Soviet Union included Finnish obligations, restraints, and reparations as well as further Finnish territorial concessions (cf.",Not found,no,0,1,0,1,1
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?,Finnish is a member of the  Baltic-Finnic subgroup of the Uralic languages and is typologically between inflected and agglutinative languages.,is,yes,1,1,0,1,1
+Is the most read newspaper in Finland Taloussanomat?,"The most read newspaper in Finland is Helsingin Sanomat, with a circulation of 434,000.",is,no,1,1,1,1,1
+"Today, are there more cell phone subscriptions than people in Finland?","(ISBN 951-693-239-8)
+*Fred Singleton â A Short History of Finland (ISBN 0-521-64701-0)
+*Allen F. Chew â The White Death: The Epic of the Soviet-Finnish Winter War (ISBN 0-87013-167-2)
+*Eloise Engle and Lauri Paananen â The Winter War: The Soviet Attack on Finland 1939-1940 (ISBN 0-8117-2433-6)
+*Jean-Jacques Subrenat â Listen, there's music from the forest; a brief presentation of the Kuhmo Chamber Music Festival (ISBN 952-92-0564-3)
+
+
+
+
+*Government
+** The Finnish Government â Official governmental site
+** The President of Finland â Official site of the President of the Republic of Finland
+** Parliament of Finland â Official Parliamentary site
+** Finland's EU Presidency â Official site of Finland's EU presidency (June 1, 2006 â Dec 31, 2006)
+** Parliament's Centennial â 100 years of Finnish democracy â Parliament of Finland celebrates its centennial in 2006â2007
+
+*Overviews
+** Finland: A Very Brief Introduction
+** Statistics Finland â Finland in Figures
+** EncyclopÃ¦dia Britannica Online â Finland's country page
+** Finland Forum â active discussion forum for Foreigners in Finland
+** International English Speakers' Association of Finland ry â Events and information for English speakers in Finland
+
+*History
+** EuroDocs â History of Finland: Primary Documents
+
+*Tourism & Maps
+** Virtual Finland â Main portal to Finland (administered by the Ministry for Foreign Affairs of Finland)
+** Visit Finland â The official travel and tourism guide by the  Finnish Tourist Board
+** Finland.com â a gateway to tourist services and facilities in Finland
+** Helsinki.fi â Capital of Finland's city portal
+** Helsinki Expert â a multi-purpose travel agent and a destination management company for Helsinki
+** Today's weather by the Finnish Meteorological Institute
+** Eniro Maps from Finland helicopter view of Finland
+** 
+**WikiMapia  and Google Maps  satellite view of Finland
+
+*Miscellaneous
+** Finlandia (a cappella version, including traditional lyrics) can be heard on Virtual Finland
+** Genocide in Soviet Karelia: Stalin's Terror and the Finns of Soviet Karelia
+** Washington Post's Finland Diary blog
+** The Finnish Heritage Museum of Fairport Harbor, Ohio, USA
+** Finland pictures
+**  English - Finnish dictionary
+
+
+
+Related Wikipedia Articles
+
+Europe
+European Union
+Maamme
+Finnish language
+Maamme#VÃ¥rt land
+Swedish language
+Maamme#Our Land
+Finnish language
+Swedish language
+Finnish people
+Helsinki
+Lutheran
+Parliamentary republic
+President of Finland
+Prime Minister of Finland
+Tarja Halonen
+Social Democratic Party (Finland)
+Matti Vanhanen
+Centre Party (Finland)
+January 1
+1995
+1000000000 (number)
+History of Finland
+Bolshevist Russia
+March 29
+1809
+December 6
+1917
+January 3
+1918
+Euro
+Euro sign
+Eastern European Time
+Eastern European Summer Time
+.fi
+.ax
+Semi-presidential system
+Finnish markka
+.eu
+European Union
+Nordic countries
+Northern Europe
+Sweden
+Russia
+Norway
+Estonia
+Gulf of Finland
+capital
+Helsinki
+list of countries by population density
+European Union
+First language
+Finnish peopleÂ­Â­
+Finnish language
+languages of the European Union
+Indo-European languages
+Swedish language
+Swedish-speaking Finns
+2006-12-31
+Grand Duchy of Finland
+Russian Empire
+Finland's declaration of independence
+Constitutional democracy
+Parliamentary system
+republicanism
+United Nations
+European Union
+welfare state
+Finland#International rankings
+Human Development Index
+United Nations Development Programme
+2006-11-14
+civil liberties
+freedom of the press
+Political corruption
+Right
+Economist Intelligence Unit
+Neutral country
+Reader's Digest
+Rock art
+Ristiina
+Southern Savonia
+UNESCO
+World Heritage Site
+Archaeology
+9th millennium BC
+Stone Age
+ice age
+hunter-gatherer
+tundra
+Pottery
+6th millennium BCE
+Pit-Comb Ware culture
+Corded Ware culture
+33rd century BCE
+agriculture
+3rd millennium BCE
+hunting
+fishing
+Finno-Ugric languages
+Stone Age
+Finno-Ugric peoples
+Ministry for Foreign Affairs (Finland)
+Hufvudstadsbladet
+December_30
+2007
+Sami language
+Germanic
+Bronze Age
+2nd millennium BCE
+1st millennium BCE
+Iron Age
+1200
+Fennoscandia
+Baltic region
+12th century
+Fortification
+Suomenlinna
+Riksdag of the Estates
+Naval dockyard
+Helsinki
+Second Swedish Crusade
+13th century
+Finland Swedish
+Finnish language
+peasant
+clergy
+court
+Bishop of Turku
+Middle Ages
+Reformation
+Lutheranism
+Mikael Agricola
+university
+The Royal Academy of Turku
+18th century
+Finnish people
+Great Northern War
+Russo-Swedish War (1741â1743)
+Parliament of Finland
+Centennial
+2007-05-23
+March 29
+1809
+Alexander I of Russia
+Finnish War
+Grand Duchy of Finland
+Russian Empire
+ethnic nationalism
+fennoman
+national epic
+Kalevala
+Finnish famine of 1866-1868
+universal suffrage
+Autonomous area
+December 6
+1917
+October Revolution
+Finland's declaration of independence
+Bolshevist Russia
+Finnish Civil War
+White Guard (Finland)
+German Empire
+Red Guards (Finland)
+nationalist activism
+Heimosodat
+Kingdom of Finland (1918)
+Kaarlo Juho StÃ¥hlberg
+Treaty of Tartu (RussianâFinnish)
+Pechenga
+Finnish language
+Barents Sea
+Lapua Movement
+Great Depression in Finland
+1930s
+Communism
+Soviet Union
+Fokker D.XXI
+Finnish Air Force
+World War II
+World War II
+Soviet Union
+Winter War
+Continuation War
+Operation Barbarossa
+Nazi Germany
+Eastern Front (World War II)
+Lapland War
+Soviet Union
+Winter War
+Continuation War
+Porkkala
+Moscow Peace Treaty (1940)
+Finnish Karelia
+Salla
+Pechenga
+Evacuation of Finnish Karelia
+Finnish war children
+Great Britain
+Agriculture
+Industrialisation
+Bilateralism
+Neutral country
+Western world
+Finno-Soviet Treaty of 1948
+Urho Kekkonen
+self-censorship
+Finlandization
+market economy
+economic growth
+Social welfare provision
+History of the Soviet Union (1985-1991)#Yeltsin and the dissolution of the USSR
+Bilateralism
+recession
+structural change
+European Union
+Exonym and endonym
+North Germanic languages
+Toponymy
+Finnmark
+Finnveden
+nomad
+hunter-gatherer
+slash and burn
+Finland Proper
+Baltic expeditions runestones#U 582
+Gotland
+Baltic expeditions runestones#G 319
+11th century
+Saimaa
+Europe
+Halti
+Lapland Province
+Norway
+taiga
+arable land
+granite
+Moraine
+till
+humus
+Archipelago Sea
+archipelago
+Ãland
+Gulf of Finland
+post-glacial rebound
+ice age
+2004-08-24
+Hanko
+Nuorgam
+Land's End
+John o' Groats
+ice age
+vascular plant
+bryophyte
+lichen
+ecology
+seasons
+extreme weather
+Scots Pine
+spruce
+birch
+Norway
+Oak
+maple
+Archipelago Sea
+Gulf of Bothnia
+Gulf of Finland
+mammal
+Brown Bear
+Gray Wolf
+Moose
+reindeer
+Red Fox
+Red Squirrel
+Mountain Hare
+Siberian Flying Squirrel
+Golden Eagle
+Saimaa Ringed Seal
+Arctic fox
+Whooper Swan
+swan
+Willow Warbler
+Chaffinch
+Redwing
+northern pike
+perch
+Salmon
+Fly fishing
+Saimaa
+Ministry for Foreign Affairs (Finland)
+Eurasian Lynx
+List of national parks of Finland
+climate
+Temperate
+Lapland Province
+subarctic climate
+Eurasia
+Oceanic climate
+continental climate
+Atlantic Ocean
+Gulf Stream
+latitude
+Arctic Circle
+midnight sun
+Provinces of Finland
+plural
+Southern Finland
+Western Finland
+Eastern Finland
+Oulu Province
+Lapland Province
+Ãland
+Dialect
+folklore
+Convention (norm)
+historical provinces of Finland
+Evacuation of Finnish Karelia
+World War II
+urbanization
+20th century
+Regions of Finland
+Ãland
+self-governance
+Municipalities of Finland
+Regions of Finland
+January 1
+2007
+List of cities and towns in Finland
+Sub-regions of Finland
+regions of Finland
+Ãland
+Kainuu
+Sami people
+Sami Domicile Area
+Lapland Province
+municipality
+Square kilometre
+capital region
+Helsinki
+Vantaa
+Espoo
+Kauniainen
+Greater Helsinki
+conurbation
+Helsinki Metropolitan Area Council
+Helsinki
+Espoo
+Tampere
+Vantaa
+Turku
+Oulu
+Lahti
+Kuopio
+JyvÃ¤skylÃ¤
+Pori
+Lappeenranta
+Rovaniemi
+Joensuu
+Vaasa
+Kotka
+List of Finnish municipalities
+List of Finnish municipalities by population
+List of Finnish municipalities by area
+Former municipalities of Finland
+SanomaWSOY
+square kilometre
+Norway
+Iceland
+Europe
+urbanization
+Greater Helsinki
+metropolitan area
+Helsinki
+Vantaa
+Espoo
+Kauniainen
+Tampere
+Turku
+Oulu
+Immigration
+Finnish people
+First language
+Baltic-Finnic languages
+Uralic languages
+morphological typology
+inflected
+agglutinative language
+inflection
+noun
+adjective
+pronoun
+numeral
+verb
+Sentence (linguistics)
+preposition
+Prefix (linguistics)
+suffix
+Compound (linguistics)
+SanomaWSOY
+Estonian language
+mutually intelligible
+Hungarian language
+Uralic language family
+Indo-European languages
+Estonia
+Hungary
+Uralic languages
+Swedish language
+Russian language
+Estonian language
+Lapland Province
+Sami people
+Indigenous peoples
+Sami language
+Northern Sami
+Inari Sami
+Skolt Sami
+Northern Sami
+Inari Sami
+Skolt Sami
+Finnish Romani
+Finnish Sign Language
+Finland-Swedish Sign Language
+Sami
+Romani people
+English language
+German language
+French language
+junior high school
+Helsinki Cathedral
+Alexander II of Russia
+Russia
+Finnish people
+Evangelical Lutheran Church of Finland
+2007-02-19
+Evangelical Lutheran Church of Finland
+Finnish Orthodox Church
+Eastern Orthodox Church
+Protestantism
+Roman Catholic Church
+Islam
+Judaism
+national churches
+United States Department of State
+2004-09-15
+Eurobarometer
+nuclear family
+extended family
+Finnish people
+United Nations Children's Fund
+United Nations Children's Fund
+United Nations Children's Fund#The UNICEF Innocenti Research Centre
+PDF
+Helsinki University of Technology
+Alvar Aalto
+Education in Finland
+Egalitarianism
+tuition
+Primary education
+Secondary education
+Vocational school
+Higher education
+University
+Organisation for Economic Co-operation and Development
+Programme for International Student Assessment
+literacy
+science
+mathematics
+problem solving
+World Economic Forum
+World Economic Forum
+public health care
+Public funding
+heart disease
+Cuisine of Finland
+Physical exercise
+smoking
+Guardian Unlimited
+2005-01-15
+life expectancy
+Eduskuntatalo
+Parliament of Finland
+Helsinki
+semi-presidential system
+Parliamentary system
+President of Finland
+Foreign relations of Finland
+European Union
+cabinet
+Finnish Council of State
+Prime Minister of Finland
+Motion of no confidence
+Chancellor of Justice#Finland
+Unicameralism
+Parliament of Finland
+Constitution of Finland
+veto
+Legislation
+proportional representation
+open list
+state flag
+judicial system of Finland
+court
+Civil law (legal system)
+Roman law
+Judicial system of Finland#Supreme Court
+Judicial system of Finland#Supreme Administrative Court
+Judicial system of Finland#High Court of Impeachment
+Ombudsman#Finland
+Universal suffrage
+National Coalition Party (Finland)
+Centre Party (Finland)
+Social Democratic Party of Finland
+Communist Party of Finland
+Netherlands
+United Kingdom
+Transparency International
+political corruption
+Corruption Perceptions Index
+Transparency International
+Reporters Without Borders
+Belgium
+Sweden
+President of Finland
+Tarja Halonen
+state visit
+Brazil
+President of Finland
+Head of State
+Constitution of Finland
+Finnish citizen
+Tarja Halonen
+January 29
+2006
+List of female heads of state
+Helsinki
+Kaarlo Juho StÃ¥hlberg
+Lauri Kristian Relander
+Pehr Evind Svinhufvud
+KyÃ¶sti Kallio
+Risto Ryti
+Carl Gustaf Emil Mannerheim
+Juho Kusti Paasikivi
+Urho Kekkonen
+Mauno Koivisto
+Martti Ahtisaari
+Tarja Halonen
+Prime Minister of Finland
+Matti Vanhanen
+Finnish parliamentary election, 2007
+Constitution of Finland
+Prime Minister
+Prime Minister of Finland
+Centre Party (Finland)
+Matti Vanhanen
+Presidency of the Council of the European Union
+Finnish parliamentary election, 2007
+Centre Party (Finland)
+National Coalition Party (Finland)
+Social Democratic Party of Finland
+Left Alliance (Finland)
+Green League
+Swedish People's Party (Finland)
+Christian Democrats (Finland)
+True Finns
+Ãland
+History of the Soviet Union (1985-1991)#Yeltsin and the dissolution of the USSR
+Paris Peace Treaties, 1947
+Finno-Soviet Treaty of 1948
+European integration
+Neutral country
+Peacekeeping
+United Nations
+European Union Battlegroups
+Ministry for Foreign Affairs (Finland)
+Minister for Foreign Affairs (Finland)
+Ilkka Kanerva
+foreign policy
+customs union
+Nordic Council
+Nordic countries
+Sweden
+Norway
+Russia
+Estonia
+Territorial dispute
+military doctrine
+Constitution of Finland
+military operation
+United Nations
+Organization for Security and Co-operation in Europe
+military alliance
+NATO
+Partnership for Peace
+gross domestic product
+En cadre
+Gross domestic product
+conscription
+Ãland
+Jehovah's Witnesses
+Conscientious objector
+Cold War
+reservist
+Chief of Defence (Finland)
+President of Finland
+Juhani Kaskeala
+Finnish Army
+Finnish Navy
+Finnish Air Force
+Finnish Border Guard
+energy policy
+Petroleum
+coal
+Oil refinery
+Neste Oil
+Nordpool
+hydropower
+Saimaa
+PÃ¤ijÃ¤nne
+Olkiluoto Nuclear Power Plant
+nuclear power
+nuclear power plant
+PDF
+May 24
+2002
+Green League
+Watt#Watts electrical and thermal
+AREVA
+Siemens AG
+March 18
+2007
+Fortum
+environmental impact assessment
+2007-03-28
+fossil fuel
+coal
+oil
+Norway
+Estonia
+oil shale
+renewable energy
+pulp and paper industry
+black liquor
+peat
+bog
+Peat
+Biofuel
+carbon neutral
+Hydroelectricity
+HVDC Russia-Finland
+national security
+Nokia
+per capita
+Sweden
+United Kingdom
+France
+Germany
+Primary production (economics)
+International trade
+manufacturing
+electronics
+International trade
+export
+Gross domestic product
+timber
+Import (international trade)
+Agriculture
+self-sufficiency
+Forestry
+euro
+Economic and Monetary Union of the European Union
+January 1
+1999
+Finnish mark
+Finnish euro coins
+World Economic Forum
+Competitiveness
+World Economic Forum
+innovation
+research and development
+information technology
+Nokia
+telecommunication
+Feudalism
+Russian Empire
+Totalitarianism
+Soviet Union
+bilateral trade
+Gross domestic product
+Europe
+per capita
+Japan
+recession
+Overheating (economics)
+Barter
+unemployment
+welfare state
+Devaluation
+Finnish mark
+Organisation for Economic Co-operation and Development
+national debt
+GDP
+Stability and Growth Pact
+unemployment
+MS Freedom of the Seas
+Liberty of the Seas
+Aker Finnyards
+Perno
+Turku
+Nokia
+Stora Enso
+Neste Oil
+UPM (company)
+Aker Finnyards
+Royal Caribbean International
+MS Freedom of the Seas
+KONE
+WÃ¤rtsilÃ¤
+Finnair
+airline
+Helsinki-Vantaa Airport
+airport
+Greater Helsinki
+transport network
+As of 2005
+Helsinki
+motorway
+railway
+light rail
+Turku
+Tampere
+VR Group
+InterCity
+express train
+Pendolino
+Conscription
+St. Petersburg
+Moscow
+Russia
+Sweden
+rail gauge
+Silja Line
+Viking Line
+Turku
+Mariehamn
+LÃ¥ngnÃ¤s
+Stockholm
+Tallinn
+Tallink
+Rostock
+EckerÃ¶ Line
+EckerÃ¶
+Grisslehamn
+airport
+Finnair
+Blue1
+Finncomm Airlines
+Helsinki-Vantaa Airport
+Bangkok
+Beijing
+Delhi
+Guangzhou
+Mumbai
+Nagoya
+City of New York
+Osaka
+Shanghai
+Hong Kong
+Tokyo
+great circle
+airline
+Western Europe
+Far East
+Asia
+Europe
+M/S Silja Symphony
+Baltic Sea cruiseferries
+Tourism
+economy
+globalisation
+modernisation
+pine
+inlet
+Gulf of Finland
+fell
+Lapland Province
+Baltic Sea cruiseferries
+Baltic region
+Helsinki
+Turku
+Tallinn
+Stockholm
+TravemÃ¼nde
+Christmas
+skiing
+Nordic walking
+Santa Claus
+Lapland Province
+Arctic Circle
+polar night
+Lapland Province
+Aurora Borealis
+fluorescence
+golf
+fishing
+yachting
+hiking
+kayaking
+Bird-watching
+hunting
+Moose
+reindeer
+hare
+history
+tradition
+religion
+Evangelical Lutheran Church of Finland
+architecture
+Turku Castle
+HÃ¤me Castle
+Savonlinna
+Olavinlinna
+Savonlinna
+Savonlinna Opera Festival
+Grand Duchy of Finland
+St. Petersburg
+Chimney
+sauna
+Enonkoski
+Finnish sauna
+Finnish people
+Culture of Finland
+United States
+21st century
+Asia
+Africa
+Sami people
+Swedish-speaking Finns
+Finnish Roma
+Finnish Tatars
+Mikael Agricola
+New Testament
+16th century
+Protestant Reformation
+19th century
+Romanticism
+Elias LÃ¶nnrot
+Kalevala
+national epic
+Aleksis Kivi
+Eino Leino
+Mika Waltari
+Frans Eemil SillanpÃ¤Ã¤
+Nobel Prize in Literature
+World War II
+VÃ¤inÃ¶ Linna
+Ilkka Remes
+author
+Thriller (genre)
+Aino Aalto
+Alvar Aalto
+handicraft
+industrial design
+WÃ¤inÃ¶ Aaltonen
+Bust (sculpture)
+sculpture
+Eliel Saarinen
+Helsinki Central railway station
+Eero Saarinen
+Alvar Aalto
+Functionalism (architecture)
+furniture
+glassware
+Karelia
+Kalevala
+Finnic peoples
+Germanic peoples
+Eastern world
+Western world
+folk music
+roots revival
+popular music
+Sami people
+Yoik
+lavlu
+vuelie
+composer
+Jean Sibelius
+European classical music
+Germany
+Fredrik Pacius
+Maamme
+national anthem
+nationalism
+Jean Sibelius
+Kullervo (Sibelius)
+Finlandia (symphonic poem)
+Magnus Lindberg
+Kaija Saariaho
+Aulis Sallinen
+Einojuhani Rautavaara
+Sakari Oramo
+Mikko Franck
+Esa-Pekka Salonen
+Osmo VÃ¤nskÃ¤
+Jukka-Pekka Saraste
+Susanna MÃ¤lkki
+Leif Segerstam
+Karita Mattila
+Soile Isokoski
+Kari Kriikku
+Pekka Kuusisto
+RÃ©ka Szilvay
+Linda Brava
+heavy metal
+Nordic music
+rock band
+jazz
+hip hop
+dance music
+Bomfunk MCs
+Darude
+electronic music
+SÃ¤hkÃ¶ Recordings
+Schlager
+dance music
+Tango music
+music of Argentina
+Toivo KÃ¤rki
+Olavi Virta
+Sauvo Puhtila
+Reino Helismaa
+Vexi Salmi
+Jimi Tenor
+JS16
+DJ Orkidea
+Amorphis
+Children of Bodom
+HIM (band)
+Impaled Nazarene
+Lordi
+Nightwish
+Sentenced (band)
+Sonata Arctica
+Stratovarius
+Tarja Turunen
+The 69 Eyes
+Negative (glam-rock band)
+MTV Europe Music Awards 2007
+Heavy metal music
+hard rock
+United States
+cello metal
+Apocalyptica
+Metallica
+cover version
+cello
+Timo Rautiainen &amp; Trio Niskalaukaus
+CMX (band)
+Billy Gould
+Faith No More
+rock music
+Hanoi Rocks
+Andy McCoy
+The Rasmus
+Dead Letters
+Music recording sales certification
+In the Shadows (song)
+MTV Europe
+Lordi
+Eurovision Song Contest 2006
+HIM (band)
+Tuska Open Air Metal Festival
+Kaisaniemi
+Helsinki
+Erkki Karu
+Cinema of Finland
+film industry
+Aki KaurismÃ¤ki
+Timo Koivusalo
+Aleksi MÃ¤kelÃ¤
+Klaus HÃ¤rÃ¶
+Hollywood
+Renny Harlin
+Linus Torvalds
+Software engineering
+newspaper
+magazine
+radio station
+Public broadcasting
+digital radio
+analog television
+digital television
+feature film
+book
+Internet
+Ministry for Foreign Affairs (Finland)
+Finnish people
+Japanese people
+Helsingin Sanomat
+SanomaWSOY
+tabloid
+Ilta-Sanomat
+Nelonen
+Aatos Erkko
+Alma Media
+Aamulehti
+Iltalehti
+Freedom of the press
+Reporters Without Borders
+Reporters Without Borders
+YLE
+television license
+MTV3
+Radio Nova (Finland)
+Bonnier
+per capita
+2007-08-31
+Internet
+Broadband Internet access
+Karelian pasties
+cuisine
+Fennoscandia
+Fish
+meat
+Berry
+vegetable
+spice
+reindeer
+oatmeal
+bread
+Lunch
+Cafeteria
+Dinner
+haute cuisine
+cooking
+recipes
+Parliament of Finland
+Christianity
+Christmas
+Epiphany (Christian)
+Easter
+Ascension of Jesus Christ
+Pentecost
+All Saints
+New Year's Day
+May Day
+Midsummer
+Independence Day of Finland
+square metre
+Mother's Day
+Father's Day
+Paavo Nurmi
+1920 Summer Olympics
+2007 Formula One season
+Formula One
+List of Formula One World Drivers' Champions
+Kimi RÃ¤ikkÃ¶nen
+2007 Brazilian Grand Prix
+sport
+PesÃ¤pallo
+baseball
+Formula One
+ice hockey
+football (soccer)
+Finnish national men's ice hockey team
+Finland-Sweden athletics international
+Jari Kurri
+Teemu SelÃ¤nne
+National Hockey League
+Finland national football team
+FIFA World Cup
+UEFA European Football Championship
+Jari Litmanen
+Sami HyypiÃ¤
+Auto racing
+Formula One
+List of Formula One World Drivers' Champions
+Keke Rosberg
+WilliamsF1
+1982 Formula One season
+Mika HÃ¤kkinen
+McLaren
+1998 Formula One season
+1999 Formula One season
+Kimi RÃ¤ikkÃ¶nen
+Scuderia Ferrari
+2007 Formula One season
+Heikki Kovalainen
+McLaren
+Nico Rosberg
+WilliamsF1
+Germans
+Leo Kinnunen
+Jyrki JÃ¤rvilehto
+Mika Salo
+Rallying
+World Rally Championship
+List of World Rally Championship Drivers' Champions
+Marcus GrÃ¶nholm
+Juha Kankkunen
+Hannu Mikkola
+Tommi MÃ¤kinen
+Timo Salonen
+Ari Vatanen
+road racing
+List of Grand Prix motorcycle racing World Champions
+Jarno Saarinen
+winter sport
+ski jumping
+Matti NykÃ¤nen
+Kalle Palander
+alpine skiing
+KitzbÃ¼hel
+Tanja Poutiainen
+Olympic Games
+silver medal
+Hannes Kolehmainen
+Paavo Nurmi
+Ville Ritola
+Gold medal
+Middle distance track event
+Long-distance track event
+Flying Finn (athlete)
+Lasse VirÃ©n
+1972 Summer Olympics
+1976 Summer Olympics
+1952 Summer Olympics
+Helsinki
+1983 World Championships in Athletics
+2005 World Championships in Athletics
+Riku Kiri
+Jouko Ahola
+Janne Virtanen
+World's Strongest Man
+1993
+2000
+floorball
+Nordic walking
+running
+skiing
+List of Finns
+Suuret suomalaiset
+Finnish people
+Culture of Finland
+triptych
+Akseli Gallen-Kallela
+Aino (mythology)
+Kalevala
+Finnish Maiden
+national personification
+Kalevala
+national epic
+Finnish mythology
+Kantele
+MÃ¤mmi
+Kalakukko
+Mustamakkara
+Tampere
+Karelian pasties
+Karelia
+Joulupukki
+Jean Sibelius
+Finlandia (symphonic poem)
+Sauna
+Finnish sauna
+Sisu
+Perkele
+Finnish profanity
+Puukko
+Talkoot
+Ice swimming
+Nordic walking
+Salmiakki
+Sahti
+Koskenkorva Viina
+Flying Finn (athlete)
+List of cities and towns in Finland
+List of Finns
+List of Finnish companies
+List of Finnish television stations
+List of newspapers in Finland
+List of universities in Finland
+List of bands from Finland
+List of Finnish wars
+History of Finland
+Finlandization
+Finnish Railway Museum
+Foreign relations of Finland
+Finnish Defence Forces
+Gun politics in Finland
+Runeberg's tart
+pastry
+poet
+Johan Ludvig Runeberg
+February 5
+Education in Finland
+Communications in Finland
+Crime in Finland
+Transport in Finland
+Fire fighting in Finland
+VR Group
+Cuisine of Finland
+Music of Finland
+Football in Finland
+Ethnic issues in Finland
+Protected areas of Finland
+Tourism in Finland
+International rankings of Finland
+International Standard Serial Number
+Max Jakobson
+William R. Trotter
+Adolf Hitler
+Matti Klinge
+Lonely Planet
+Jean-Jacques Subrenat
+Parliament of Finland
+Ministry for Foreign Affairs (Finland)
+Helsinki
+Helsinki
+WikiMapia
+Google Maps",are,yes,0,1,0,0,0
+Is Matti Vanhanen the Prime Minister of Finland?,"The current Prime Minister of Finland, as well as Chairman of the Centre Party is Matti Vanhanen (who in the second half of 2006 was President of the European Council).",is,yes,1,1,0,1,1
+Is the capital city Oslo?,The capital city is Helsinki.,is,no,0,1,0,1,1
+Does it have a border with Norway?,"Fossil fuels are, however, all imported, because Finland doesn't have any fossil fuel sources, unlike neighboring Norway with oil and Estonia with oil shale.",does,yes,0,0,0,1,0
+Does salmon remain the favorite of fly rod enthusiasts?,Salmon remains the favorite of fly rod enthusiasts.,does,yes,0,1,0,1,1
+Are there cathedrals scattered all across Finland?,There are churches and cathedrals scattered all across Finland reflecting the strong Finnish Lutheran following.,are,yes,0,1,0,1,1
+"According to Reader's Digest, is Finland best for living?","Reader's Digest study says Finland best for living
+
+
+
+Rock paintings in Astuvansalmi in Ristiina, the Southern Savonia region.",is,yes,0,1,0,0,0
+Does a large proportion of the population speak Swedish as its mother tongue?,"(ISBN 951-693-239-8)
+*Fred Singleton â A Short History of Finland (ISBN 0-521-64701-0)
+*Allen F. Chew â The White Death: The Epic of the Soviet-Finnish Winter War (ISBN 0-87013-167-2)
+*Eloise Engle and Lauri Paananen â The Winter War: The Soviet Attack on Finland 1939-1940 (ISBN 0-8117-2433-6)
+*Jean-Jacques Subrenat â Listen, there's music from the forest; a brief presentation of the Kuhmo Chamber Music Festival (ISBN 952-92-0564-3)
+
+
+
+
+*Government
+** The Finnish Government â Official governmental site
+** The President of Finland â Official site of the President of the Republic of Finland
+** Parliament of Finland â Official Parliamentary site
+** Finland's EU Presidency â Official site of Finland's EU presidency (June 1, 2006 â Dec 31, 2006)
+** Parliament's Centennial â 100 years of Finnish democracy â Parliament of Finland celebrates its centennial in 2006â2007
+
+*Overviews
+** Finland: A Very Brief Introduction
+** Statistics Finland â Finland in Figures
+** EncyclopÃ¦dia Britannica Online â Finland's country page
+** Finland Forum â active discussion forum for Foreigners in Finland
+** International English Speakers' Association of Finland ry â Events and information for English speakers in Finland
+
+*History
+** EuroDocs â History of Finland: Primary Documents
+
+*Tourism & Maps
+** Virtual Finland â Main portal to Finland (administered by the Ministry for Foreign Affairs of Finland)
+** Visit Finland â The official travel and tourism guide by the  Finnish Tourist Board
+** Finland.com â a gateway to tourist services and facilities in Finland
+** Helsinki.fi â Capital of Finland's city portal
+** Helsinki Expert â a multi-purpose travel agent and a destination management company for Helsinki
+** Today's weather by the Finnish Meteorological Institute
+** Eniro Maps from Finland helicopter view of Finland
+** 
+**WikiMapia  and Google Maps  satellite view of Finland
+
+*Miscellaneous
+** Finlandia (a cappella version, including traditional lyrics) can be heard on Virtual Finland
+** Genocide in Soviet Karelia: Stalin's Terror and the Finns of Soviet Karelia
+** Washington Post's Finland Diary blog
+** The Finnish Heritage Museum of Fairport Harbor, Ohio, USA
+** Finland pictures
+**  English - Finnish dictionary
+
+
+
+Related Wikipedia Articles
+
+Europe
+European Union
+Maamme
+Finnish language
+Maamme#VÃ¥rt land
+Swedish language
+Maamme#Our Land
+Finnish language
+Swedish language
+Finnish people
+Helsinki
+Lutheran
+Parliamentary republic
+President of Finland
+Prime Minister of Finland
+Tarja Halonen
+Social Democratic Party (Finland)
+Matti Vanhanen
+Centre Party (Finland)
+January 1
+1995
+1000000000 (number)
+History of Finland
+Bolshevist Russia
+March 29
+1809
+December 6
+1917
+January 3
+1918
+Euro
+Euro sign
+Eastern European Time
+Eastern European Summer Time
+.fi
+.ax
+Semi-presidential system
+Finnish markka
+.eu
+European Union
+Nordic countries
+Northern Europe
+Sweden
+Russia
+Norway
+Estonia
+Gulf of Finland
+capital
+Helsinki
+list of countries by population density
+European Union
+First language
+Finnish peopleÂ­Â­
+Finnish language
+languages of the European Union
+Indo-European languages
+Swedish language
+Swedish-speaking Finns
+2006-12-31
+Grand Duchy of Finland
+Russian Empire
+Finland's declaration of independence
+Constitutional democracy
+Parliamentary system
+republicanism
+United Nations
+European Union
+welfare state
+Finland#International rankings
+Human Development Index
+United Nations Development Programme
+2006-11-14
+civil liberties
+freedom of the press
+Political corruption
+Right
+Economist Intelligence Unit
+Neutral country
+Reader's Digest
+Rock art
+Ristiina
+Southern Savonia
+UNESCO
+World Heritage Site
+Archaeology
+9th millennium BC
+Stone Age
+ice age
+hunter-gatherer
+tundra
+Pottery
+6th millennium BCE
+Pit-Comb Ware culture
+Corded Ware culture
+33rd century BCE
+agriculture
+3rd millennium BCE
+hunting
+fishing
+Finno-Ugric languages
+Stone Age
+Finno-Ugric peoples
+Ministry for Foreign Affairs (Finland)
+Hufvudstadsbladet
+December_30
+2007
+Sami language
+Germanic
+Bronze Age
+2nd millennium BCE
+1st millennium BCE
+Iron Age
+1200
+Fennoscandia
+Baltic region
+12th century
+Fortification
+Suomenlinna
+Riksdag of the Estates
+Naval dockyard
+Helsinki
+Second Swedish Crusade
+13th century
+Finland Swedish
+Finnish language
+peasant
+clergy
+court
+Bishop of Turku
+Middle Ages
+Reformation
+Lutheranism
+Mikael Agricola
+university
+The Royal Academy of Turku
+18th century
+Finnish people
+Great Northern War
+Russo-Swedish War (1741â1743)
+Parliament of Finland
+Centennial
+2007-05-23
+March 29
+1809
+Alexander I of Russia
+Finnish War
+Grand Duchy of Finland
+Russian Empire
+ethnic nationalism
+fennoman
+national epic
+Kalevala
+Finnish famine of 1866-1868
+universal suffrage
+Autonomous area
+December 6
+1917
+October Revolution
+Finland's declaration of independence
+Bolshevist Russia
+Finnish Civil War
+White Guard (Finland)
+German Empire
+Red Guards (Finland)
+nationalist activism
+Heimosodat
+Kingdom of Finland (1918)
+Kaarlo Juho StÃ¥hlberg
+Treaty of Tartu (RussianâFinnish)
+Pechenga
+Finnish language
+Barents Sea
+Lapua Movement
+Great Depression in Finland
+1930s
+Communism
+Soviet Union
+Fokker D.XXI
+Finnish Air Force
+World War II
+World War II
+Soviet Union
+Winter War
+Continuation War
+Operation Barbarossa
+Nazi Germany
+Eastern Front (World War II)
+Lapland War
+Soviet Union
+Winter War
+Continuation War
+Porkkala
+Moscow Peace Treaty (1940)
+Finnish Karelia
+Salla
+Pechenga
+Evacuation of Finnish Karelia
+Finnish war children
+Great Britain
+Agriculture
+Industrialisation
+Bilateralism
+Neutral country
+Western world
+Finno-Soviet Treaty of 1948
+Urho Kekkonen
+self-censorship
+Finlandization
+market economy
+economic growth
+Social welfare provision
+History of the Soviet Union (1985-1991)#Yeltsin and the dissolution of the USSR
+Bilateralism
+recession
+structural change
+European Union
+Exonym and endonym
+North Germanic languages
+Toponymy
+Finnmark
+Finnveden
+nomad
+hunter-gatherer
+slash and burn
+Finland Proper
+Baltic expeditions runestones#U 582
+Gotland
+Baltic expeditions runestones#G 319
+11th century
+Saimaa
+Europe
+Halti
+Lapland Province
+Norway
+taiga
+arable land
+granite
+Moraine
+till
+humus
+Archipelago Sea
+archipelago
+Ãland
+Gulf of Finland
+post-glacial rebound
+ice age
+2004-08-24
+Hanko
+Nuorgam
+Land's End
+John o' Groats
+ice age
+vascular plant
+bryophyte
+lichen
+ecology
+seasons
+extreme weather
+Scots Pine
+spruce
+birch
+Norway
+Oak
+maple
+Archipelago Sea
+Gulf of Bothnia
+Gulf of Finland
+mammal
+Brown Bear
+Gray Wolf
+Moose
+reindeer
+Red Fox
+Red Squirrel
+Mountain Hare
+Siberian Flying Squirrel
+Golden Eagle
+Saimaa Ringed Seal
+Arctic fox
+Whooper Swan
+swan
+Willow Warbler
+Chaffinch
+Redwing
+northern pike
+perch
+Salmon
+Fly fishing
+Saimaa
+Ministry for Foreign Affairs (Finland)
+Eurasian Lynx
+List of national parks of Finland
+climate
+Temperate
+Lapland Province
+subarctic climate
+Eurasia
+Oceanic climate
+continental climate
+Atlantic Ocean
+Gulf Stream
+latitude
+Arctic Circle
+midnight sun
+Provinces of Finland
+plural
+Southern Finland
+Western Finland
+Eastern Finland
+Oulu Province
+Lapland Province
+Ãland
+Dialect
+folklore
+Convention (norm)
+historical provinces of Finland
+Evacuation of Finnish Karelia
+World War II
+urbanization
+20th century
+Regions of Finland
+Ãland
+self-governance
+Municipalities of Finland
+Regions of Finland
+January 1
+2007
+List of cities and towns in Finland
+Sub-regions of Finland
+regions of Finland
+Ãland
+Kainuu
+Sami people
+Sami Domicile Area
+Lapland Province
+municipality
+Square kilometre
+capital region
+Helsinki
+Vantaa
+Espoo
+Kauniainen
+Greater Helsinki
+conurbation
+Helsinki Metropolitan Area Council
+Helsinki
+Espoo
+Tampere
+Vantaa
+Turku
+Oulu
+Lahti
+Kuopio
+JyvÃ¤skylÃ¤
+Pori
+Lappeenranta
+Rovaniemi
+Joensuu
+Vaasa
+Kotka
+List of Finnish municipalities
+List of Finnish municipalities by population
+List of Finnish municipalities by area
+Former municipalities of Finland
+SanomaWSOY
+square kilometre
+Norway
+Iceland
+Europe
+urbanization
+Greater Helsinki
+metropolitan area
+Helsinki
+Vantaa
+Espoo
+Kauniainen
+Tampere
+Turku
+Oulu
+Immigration
+Finnish people
+First language
+Baltic-Finnic languages
+Uralic languages
+morphological typology
+inflected
+agglutinative language
+inflection
+noun
+adjective
+pronoun
+numeral
+verb
+Sentence (linguistics)
+preposition
+Prefix (linguistics)
+suffix
+Compound (linguistics)
+SanomaWSOY
+Estonian language
+mutually intelligible
+Hungarian language
+Uralic language family
+Indo-European languages
+Estonia
+Hungary
+Uralic languages
+Swedish language
+Russian language
+Estonian language
+Lapland Province
+Sami people
+Indigenous peoples
+Sami language
+Northern Sami
+Inari Sami
+Skolt Sami
+Northern Sami
+Inari Sami
+Skolt Sami
+Finnish Romani
+Finnish Sign Language
+Finland-Swedish Sign Language
+Sami
+Romani people
+English language
+German language
+French language
+junior high school
+Helsinki Cathedral
+Alexander II of Russia
+Russia
+Finnish people
+Evangelical Lutheran Church of Finland
+2007-02-19
+Evangelical Lutheran Church of Finland
+Finnish Orthodox Church
+Eastern Orthodox Church
+Protestantism
+Roman Catholic Church
+Islam
+Judaism
+national churches
+United States Department of State
+2004-09-15
+Eurobarometer
+nuclear family
+extended family
+Finnish people
+United Nations Children's Fund
+United Nations Children's Fund
+United Nations Children's Fund#The UNICEF Innocenti Research Centre
+PDF
+Helsinki University of Technology
+Alvar Aalto
+Education in Finland
+Egalitarianism
+tuition
+Primary education
+Secondary education
+Vocational school
+Higher education
+University
+Organisation for Economic Co-operation and Development
+Programme for International Student Assessment
+literacy
+science
+mathematics
+problem solving
+World Economic Forum
+World Economic Forum
+public health care
+Public funding
+heart disease
+Cuisine of Finland
+Physical exercise
+smoking
+Guardian Unlimited
+2005-01-15
+life expectancy
+Eduskuntatalo
+Parliament of Finland
+Helsinki
+semi-presidential system
+Parliamentary system
+President of Finland
+Foreign relations of Finland
+European Union
+cabinet
+Finnish Council of State
+Prime Minister of Finland
+Motion of no confidence
+Chancellor of Justice#Finland
+Unicameralism
+Parliament of Finland
+Constitution of Finland
+veto
+Legislation
+proportional representation
+open list
+state flag
+judicial system of Finland
+court
+Civil law (legal system)
+Roman law
+Judicial system of Finland#Supreme Court
+Judicial system of Finland#Supreme Administrative Court
+Judicial system of Finland#High Court of Impeachment
+Ombudsman#Finland
+Universal suffrage
+National Coalition Party (Finland)
+Centre Party (Finland)
+Social Democratic Party of Finland
+Communist Party of Finland
+Netherlands
+United Kingdom
+Transparency International
+political corruption
+Corruption Perceptions Index
+Transparency International
+Reporters Without Borders
+Belgium
+Sweden
+President of Finland
+Tarja Halonen
+state visit
+Brazil
+President of Finland
+Head of State
+Constitution of Finland
+Finnish citizen
+Tarja Halonen
+January 29
+2006
+List of female heads of state
+Helsinki
+Kaarlo Juho StÃ¥hlberg
+Lauri Kristian Relander
+Pehr Evind Svinhufvud
+KyÃ¶sti Kallio
+Risto Ryti
+Carl Gustaf Emil Mannerheim
+Juho Kusti Paasikivi
+Urho Kekkonen
+Mauno Koivisto
+Martti Ahtisaari
+Tarja Halonen
+Prime Minister of Finland
+Matti Vanhanen
+Finnish parliamentary election, 2007
+Constitution of Finland
+Prime Minister
+Prime Minister of Finland
+Centre Party (Finland)
+Matti Vanhanen
+Presidency of the Council of the European Union
+Finnish parliamentary election, 2007
+Centre Party (Finland)
+National Coalition Party (Finland)
+Social Democratic Party of Finland
+Left Alliance (Finland)
+Green League
+Swedish People's Party (Finland)
+Christian Democrats (Finland)
+True Finns
+Ãland
+History of the Soviet Union (1985-1991)#Yeltsin and the dissolution of the USSR
+Paris Peace Treaties, 1947
+Finno-Soviet Treaty of 1948
+European integration
+Neutral country
+Peacekeeping
+United Nations
+European Union Battlegroups
+Ministry for Foreign Affairs (Finland)
+Minister for Foreign Affairs (Finland)
+Ilkka Kanerva
+foreign policy
+customs union
+Nordic Council
+Nordic countries
+Sweden
+Norway
+Russia
+Estonia
+Territorial dispute
+military doctrine
+Constitution of Finland
+military operation
+United Nations
+Organization for Security and Co-operation in Europe
+military alliance
+NATO
+Partnership for Peace
+gross domestic product
+En cadre
+Gross domestic product
+conscription
+Ãland
+Jehovah's Witnesses
+Conscientious objector
+Cold War
+reservist
+Chief of Defence (Finland)
+President of Finland
+Juhani Kaskeala
+Finnish Army
+Finnish Navy
+Finnish Air Force
+Finnish Border Guard
+energy policy
+Petroleum
+coal
+Oil refinery
+Neste Oil
+Nordpool
+hydropower
+Saimaa
+PÃ¤ijÃ¤nne
+Olkiluoto Nuclear Power Plant
+nuclear power
+nuclear power plant
+PDF
+May 24
+2002
+Green League
+Watt#Watts electrical and thermal
+AREVA
+Siemens AG
+March 18
+2007
+Fortum
+environmental impact assessment
+2007-03-28
+fossil fuel
+coal
+oil
+Norway
+Estonia
+oil shale
+renewable energy
+pulp and paper industry
+black liquor
+peat
+bog
+Peat
+Biofuel
+carbon neutral
+Hydroelectricity
+HVDC Russia-Finland
+national security
+Nokia
+per capita
+Sweden
+United Kingdom
+France
+Germany
+Primary production (economics)
+International trade
+manufacturing
+electronics
+International trade
+export
+Gross domestic product
+timber
+Import (international trade)
+Agriculture
+self-sufficiency
+Forestry
+euro
+Economic and Monetary Union of the European Union
+January 1
+1999
+Finnish mark
+Finnish euro coins
+World Economic Forum
+Competitiveness
+World Economic Forum
+innovation
+research and development
+information technology
+Nokia
+telecommunication
+Feudalism
+Russian Empire
+Totalitarianism
+Soviet Union
+bilateral trade
+Gross domestic product
+Europe
+per capita
+Japan
+recession
+Overheating (economics)
+Barter
+unemployment
+welfare state
+Devaluation
+Finnish mark
+Organisation for Economic Co-operation and Development
+national debt
+GDP
+Stability and Growth Pact
+unemployment
+MS Freedom of the Seas
+Liberty of the Seas
+Aker Finnyards
+Perno
+Turku
+Nokia
+Stora Enso
+Neste Oil
+UPM (company)
+Aker Finnyards
+Royal Caribbean International
+MS Freedom of the Seas
+KONE
+WÃ¤rtsilÃ¤
+Finnair
+airline
+Helsinki-Vantaa Airport
+airport
+Greater Helsinki
+transport network
+As of 2005
+Helsinki
+motorway
+railway
+light rail
+Turku
+Tampere
+VR Group
+InterCity
+express train
+Pendolino
+Conscription
+St. Petersburg
+Moscow
+Russia
+Sweden
+rail gauge
+Silja Line
+Viking Line
+Turku
+Mariehamn
+LÃ¥ngnÃ¤s
+Stockholm
+Tallinn
+Tallink
+Rostock
+EckerÃ¶ Line
+EckerÃ¶
+Grisslehamn
+airport
+Finnair
+Blue1
+Finncomm Airlines
+Helsinki-Vantaa Airport
+Bangkok
+Beijing
+Delhi
+Guangzhou
+Mumbai
+Nagoya
+City of New York
+Osaka
+Shanghai
+Hong Kong
+Tokyo
+great circle
+airline
+Western Europe
+Far East
+Asia
+Europe
+M/S Silja Symphony
+Baltic Sea cruiseferries
+Tourism
+economy
+globalisation
+modernisation
+pine
+inlet
+Gulf of Finland
+fell
+Lapland Province
+Baltic Sea cruiseferries
+Baltic region
+Helsinki
+Turku
+Tallinn
+Stockholm
+TravemÃ¼nde
+Christmas
+skiing
+Nordic walking
+Santa Claus
+Lapland Province
+Arctic Circle
+polar night
+Lapland Province
+Aurora Borealis
+fluorescence
+golf
+fishing
+yachting
+hiking
+kayaking
+Bird-watching
+hunting
+Moose
+reindeer
+hare
+history
+tradition
+religion
+Evangelical Lutheran Church of Finland
+architecture
+Turku Castle
+HÃ¤me Castle
+Savonlinna
+Olavinlinna
+Savonlinna
+Savonlinna Opera Festival
+Grand Duchy of Finland
+St. Petersburg
+Chimney
+sauna
+Enonkoski
+Finnish sauna
+Finnish people
+Culture of Finland
+United States
+21st century
+Asia
+Africa
+Sami people
+Swedish-speaking Finns
+Finnish Roma
+Finnish Tatars
+Mikael Agricola
+New Testament
+16th century
+Protestant Reformation
+19th century
+Romanticism
+Elias LÃ¶nnrot
+Kalevala
+national epic
+Aleksis Kivi
+Eino Leino
+Mika Waltari
+Frans Eemil SillanpÃ¤Ã¤
+Nobel Prize in Literature
+World War II
+VÃ¤inÃ¶ Linna
+Ilkka Remes
+author
+Thriller (genre)
+Aino Aalto
+Alvar Aalto
+handicraft
+industrial design
+WÃ¤inÃ¶ Aaltonen
+Bust (sculpture)
+sculpture
+Eliel Saarinen
+Helsinki Central railway station
+Eero Saarinen
+Alvar Aalto
+Functionalism (architecture)
+furniture
+glassware
+Karelia
+Kalevala
+Finnic peoples
+Germanic peoples
+Eastern world
+Western world
+folk music
+roots revival
+popular music
+Sami people
+Yoik
+lavlu
+vuelie
+composer
+Jean Sibelius
+European classical music
+Germany
+Fredrik Pacius
+Maamme
+national anthem
+nationalism
+Jean Sibelius
+Kullervo (Sibelius)
+Finlandia (symphonic poem)
+Magnus Lindberg
+Kaija Saariaho
+Aulis Sallinen
+Einojuhani Rautavaara
+Sakari Oramo
+Mikko Franck
+Esa-Pekka Salonen
+Osmo VÃ¤nskÃ¤
+Jukka-Pekka Saraste
+Susanna MÃ¤lkki
+Leif Segerstam
+Karita Mattila
+Soile Isokoski
+Kari Kriikku
+Pekka Kuusisto
+RÃ©ka Szilvay
+Linda Brava
+heavy metal
+Nordic music
+rock band
+jazz
+hip hop
+dance music
+Bomfunk MCs
+Darude
+electronic music
+SÃ¤hkÃ¶ Recordings
+Schlager
+dance music
+Tango music
+music of Argentina
+Toivo KÃ¤rki
+Olavi Virta
+Sauvo Puhtila
+Reino Helismaa
+Vexi Salmi
+Jimi Tenor
+JS16
+DJ Orkidea
+Amorphis
+Children of Bodom
+HIM (band)
+Impaled Nazarene
+Lordi
+Nightwish
+Sentenced (band)
+Sonata Arctica
+Stratovarius
+Tarja Turunen
+The 69 Eyes
+Negative (glam-rock band)
+MTV Europe Music Awards 2007
+Heavy metal music
+hard rock
+United States
+cello metal
+Apocalyptica
+Metallica
+cover version
+cello
+Timo Rautiainen &amp; Trio Niskalaukaus
+CMX (band)
+Billy Gould
+Faith No More
+rock music
+Hanoi Rocks
+Andy McCoy
+The Rasmus
+Dead Letters
+Music recording sales certification
+In the Shadows (song)
+MTV Europe
+Lordi
+Eurovision Song Contest 2006
+HIM (band)
+Tuska Open Air Metal Festival
+Kaisaniemi
+Helsinki
+Erkki Karu
+Cinema of Finland
+film industry
+Aki KaurismÃ¤ki
+Timo Koivusalo
+Aleksi MÃ¤kelÃ¤
+Klaus HÃ¤rÃ¶
+Hollywood
+Renny Harlin
+Linus Torvalds
+Software engineering
+newspaper
+magazine
+radio station
+Public broadcasting
+digital radio
+analog television
+digital television
+feature film
+book
+Internet
+Ministry for Foreign Affairs (Finland)
+Finnish people
+Japanese people
+Helsingin Sanomat
+SanomaWSOY
+tabloid
+Ilta-Sanomat
+Nelonen
+Aatos Erkko
+Alma Media
+Aamulehti
+Iltalehti
+Freedom of the press
+Reporters Without Borders
+Reporters Without Borders
+YLE
+television license
+MTV3
+Radio Nova (Finland)
+Bonnier
+per capita
+2007-08-31
+Internet
+Broadband Internet access
+Karelian pasties
+cuisine
+Fennoscandia
+Fish
+meat
+Berry
+vegetable
+spice
+reindeer
+oatmeal
+bread
+Lunch
+Cafeteria
+Dinner
+haute cuisine
+cooking
+recipes
+Parliament of Finland
+Christianity
+Christmas
+Epiphany (Christian)
+Easter
+Ascension of Jesus Christ
+Pentecost
+All Saints
+New Year's Day
+May Day
+Midsummer
+Independence Day of Finland
+square metre
+Mother's Day
+Father's Day
+Paavo Nurmi
+1920 Summer Olympics
+2007 Formula One season
+Formula One
+List of Formula One World Drivers' Champions
+Kimi RÃ¤ikkÃ¶nen
+2007 Brazilian Grand Prix
+sport
+PesÃ¤pallo
+baseball
+Formula One
+ice hockey
+football (soccer)
+Finnish national men's ice hockey team
+Finland-Sweden athletics international
+Jari Kurri
+Teemu SelÃ¤nne
+National Hockey League
+Finland national football team
+FIFA World Cup
+UEFA European Football Championship
+Jari Litmanen
+Sami HyypiÃ¤
+Auto racing
+Formula One
+List of Formula One World Drivers' Champions
+Keke Rosberg
+WilliamsF1
+1982 Formula One season
+Mika HÃ¤kkinen
+McLaren
+1998 Formula One season
+1999 Formula One season
+Kimi RÃ¤ikkÃ¶nen
+Scuderia Ferrari
+2007 Formula One season
+Heikki Kovalainen
+McLaren
+Nico Rosberg
+WilliamsF1
+Germans
+Leo Kinnunen
+Jyrki JÃ¤rvilehto
+Mika Salo
+Rallying
+World Rally Championship
+List of World Rally Championship Drivers' Champions
+Marcus GrÃ¶nholm
+Juha Kankkunen
+Hannu Mikkola
+Tommi MÃ¤kinen
+Timo Salonen
+Ari Vatanen
+road racing
+List of Grand Prix motorcycle racing World Champions
+Jarno Saarinen
+winter sport
+ski jumping
+Matti NykÃ¤nen
+Kalle Palander
+alpine skiing
+KitzbÃ¼hel
+Tanja Poutiainen
+Olympic Games
+silver medal
+Hannes Kolehmainen
+Paavo Nurmi
+Ville Ritola
+Gold medal
+Middle distance track event
+Long-distance track event
+Flying Finn (athlete)
+Lasse VirÃ©n
+1972 Summer Olympics
+1976 Summer Olympics
+1952 Summer Olympics
+Helsinki
+1983 World Championships in Athletics
+2005 World Championships in Athletics
+Riku Kiri
+Jouko Ahola
+Janne Virtanen
+World's Strongest Man
+1993
+2000
+floorball
+Nordic walking
+running
+skiing
+List of Finns
+Suuret suomalaiset
+Finnish people
+Culture of Finland
+triptych
+Akseli Gallen-Kallela
+Aino (mythology)
+Kalevala
+Finnish Maiden
+national personification
+Kalevala
+national epic
+Finnish mythology
+Kantele
+MÃ¤mmi
+Kalakukko
+Mustamakkara
+Tampere
+Karelian pasties
+Karelia
+Joulupukki
+Jean Sibelius
+Finlandia (symphonic poem)
+Sauna
+Finnish sauna
+Sisu
+Perkele
+Finnish profanity
+Puukko
+Talkoot
+Ice swimming
+Nordic walking
+Salmiakki
+Sahti
+Koskenkorva Viina
+Flying Finn (athlete)
+List of cities and towns in Finland
+List of Finns
+List of Finnish companies
+List of Finnish television stations
+List of newspapers in Finland
+List of universities in Finland
+List of bands from Finland
+List of Finnish wars
+History of Finland
+Finlandization
+Finnish Railway Museum
+Foreign relations of Finland
+Finnish Defence Forces
+Gun politics in Finland
+Runeberg's tart
+pastry
+poet
+Johan Ludvig Runeberg
+February 5
+Education in Finland
+Communications in Finland
+Crime in Finland
+Transport in Finland
+Fire fighting in Finland
+VR Group
+Cuisine of Finland
+Music of Finland
+Football in Finland
+Ethnic issues in Finland
+Protected areas of Finland
+Tourism in Finland
+International rankings of Finland
+International Standard Serial Number
+Max Jakobson
+William R. Trotter
+Adolf Hitler
+Matti Klinge
+Lonely Planet
+Jean-Jacques Subrenat
+Parliament of Finland
+Ministry for Foreign Affairs (Finland)
+Helsinki
+Helsinki
+WikiMapia
+Google Maps",does,no,1,1,0,1,1
+Do women live longer than men?,The life expectancy is 82 years for women and 75 years for men.,do,yes,0,1,0,1,1
+Was Ford a member of the House of Representatives?,"At the time of his engagement, Ford was campaigning for what would be his first of thirteen terms as a member of the United States House of Representatives.",was,yes,0,1,0,1,1
+Was Gerald Ford a member of Delta Kappa Epsilon?,"At Michigan, Ford became a member of the Delta Kappa Epsilon fraternity and washed dishes at his fraternity house to earn money for college expenses.",was,yes,0,1,0,0,0
+"Did ford get an award called ""Congressman's congressman""?","In 1961, the U.S. House membership voted Ford a special award as a ""Congressman's Congressman"" that praised his committee work on military budgets.",did,yes,0,1,0,1,1
+Did ford attend the University of Michigan?,"Attending the University of Michigan as an undergraduate, Ford played center and linebacker for the schoolâs football team and helped the Wolverines to undefeated seasons and national titles in 1932 and 1933.",did,yes,0,1,0,1,1
+Was Ford active about Vietnamese affairs?,"Ford was not aware of his biological parentage until he was 17, when his parents told him about the circumstances of his birth.",was,no,0,0,0,0,0
+Had Ford's wife married before?,"Mrs. Ford and their three sons, who had celebrated Christmas the day before at home, were at Ford's bedside when he died.",Not found,yes,0,1,0,1,1
+Is Ford related with the assassination of John F. Kennedy?,"Related Wikipedia Articles
+
+President of the United States
+August 9
+1974
+January 20
+1977
+Nelson Rockefeller
+Richard Nixon
+Jimmy Carter
+Vice President of the United States
+December 6
+1973
+August 9
+1974
+Richard Nixon
+Spiro Agnew
+Nelson Rockefeller
+Party leaders of the United States House of Representatives
+January 3
+1965
+December 6
+1973
+Charles A. Halleck
+John Jacob Rhodes
+U.S. House of Representatives
+Michigan
+January 3
+1949
+December 6
+1973
+Bartel J. Jonkman
+Richard F. Vander Veen
+Omaha, Nebraska
+Rancho Mirage, California
+Betty Ford
+Lawyer
+University of Michigan
+Republican Party (United States)
+Episcopal Church in the United States of America
+July 14
+1913
+December 26
+2006
+President of the United States
+Vice President of the United States
+Twenty-fifth Amendment to the United States Constitution
+Richard Nixon
+August 9
+1974
+Republican Party (United States)
+Party leaders of the United States House of Representatives
+United States House of Representatives
+United States Congress
+1948
+Michigan's 5th congressional district
+Helsinki Accords
+dÃ©tente
+Cold War
+South Vietnam
+North Vietnam
+inflation
+recession
+pardon
+Richard Nixon
+Watergate scandal
+United States presidential election, 1976
+Ronald Reagan
+Democratic Party (United States)
+Jimmy Carter
+July 14
+1913
+Central Time zone
+Gerald R. Ford Birthsite and Gardens
+Omaha, Nebraska
+Nebraska
+Leslie Lynch King, Sr.
+Dorothy Ayer Gardner Ford
+Oak Park, Illinois
+Illinois
+Grand Rapids, Michigan
+Michigan
+spousal abuse
+February 1
+1916
+Gerald Rudolff Ford
+adoption
+December 3
+1935
+East Grand Rapids, Michigan
+Associated Press
+The New York Times
+December 27
+2006
+2006-12-31
+1976-08-19
+Boy Scouts of America
+Eagle Scout (Boy Scouts of America)
+White House
+Distinguished Eagle Scout Award
+Silver Buffalo Award
+2006-12-26
+Scouting
+2007-01-04
+captain (sports)
+American football
+Grand Rapids City League
+University of Michigan
+center (football)
+linebacker
+Michigan Wolverines football
+NCAA Division I-A national football championship
+Minnesota Golden Gophers football
+Bennie Oosterbaan
+American football
+University of Chicago
+Heisman Trophy
+Jay Berwanger
+Associated Press
+MSNBC
+2006-12-27
+January 1
+1935
+Chicago Bears
+Soldier Field
+Ohio State-Michigan
+jersey (clothing)
+Delta Kappa Epsilon
+political science
+economics
+Detroit Lions
+Green Bay Packers
+National Football League
+Yale University
+University of Michigan Law School
+Juris Doctor
+Yale Law School
+Neutrality Act
+America First Committee
+World War II
+bar (law)
+attack on Pearl Harbor
+New York Times
+Ensign (rank)#United States
+United States Navy Reserve
+April 13
+1942
+April 20
+Annapolis, Maryland
+Maryland
+Chapel Hill, North Carolina
+North Carolina
+Lieutenant, Junior Grade
+June 2
+1942
+Lieutenant
+United States Navy
+USS Monterey (CVL-26)
+Camden, New Jersey
+New Jersey
+June 17
+1943
+Pacific Theater of Operations
+United States Third Fleet
+United States Fifth Fleet
+Makin Island
+Kavieng
+Kwajalein
+Eniwetok
+Mariana Islands
+Caroline Islands
+New Guinea
+Battle of the Philippine Sea
+Wake Island
+Ryukyu Islands
+Leyte Island
+Mindoro
+Empire of Japan
+typhoon
+Admiral
+William Halsey, Jr.
+Typhoon Cobra
+destroyer
+December 18
+USS Monterey (CVL-26)
+June
+1944
+Ulithi
+December 21
+Bremerton, Washington
+Washington
+December 24
+1944
+Saint Mary's College of California
+Naval Air Station Glenview
+October 3
+1945
+Naval Station Great Lakes
+February 23
+1946
+June 28
+1946
+United States Secretary of the Navy
+Asiatic-Pacific Campaign Medal
+Gilbert Islands
+Bismarck Archipelago
+Marshall Islands
+Battle of Hollandia
+Philippine Liberation Medal
+American Campaign Medal
+World War II Victory Medal
+Benevolent and Protective Order of Elks
+American Legion
+Veterans of Foreign Wars
+AMVETS
+Freemasonry
+September 30
+1949
+October 15
+1948
+October 15
+1948
+Episcopal Church in the United States of America
+Betty Ford
+John Robert Powers
+Martha Graham
+United States House of Representatives
+The New York Times
+1974-12-08
+Michael Gerald Ford
+John Gardner Ford
+Steven Meigs Ford
+Susan Elizabeth Ford
+Party leaders of the United States House of Representatives
+Bartel J. Jonkman
+United States non-interventionism
+United States House elections, 1948
+Agriculture in the United States
+2003-01-03
+congressional district
+The New York Times
+2006-12-28
+United States House Committee on Appropriations
+United States House Appropriations Subcommittee on Defense
+fiscal conservatism
+Wernher von Braun
+George H. Mahon
+James E. Webb
+Marshall Space Flight Center
+Lyndon B. Johnson
+Warren Commission
+Assassination of John F. Kennedy
+John F. Kennedy
+Lee Harvey Oswald
+Assassination Records Review Board
+shoulder
+vertebral column
+Party leaders of the United States House of Representatives
+Great Society
+Vietnam War
+press conference
+Illinois
+Everett Dirksen
+2001-05-23
+2006-12-27
+October 10
+1973
+Vice President of the United States
+Spiro Agnew
+The New York Times
+Speaker of the United States House of Representatives
+Carl Albert
+Blue Room (White House)
+Vice President of the United States
+October 12
+Twenty-fifth Amendment to the United States Constitution
+United States Senate
+November 27
+December 6
+United States presidential election, 1972
+White House
+Watergate scandal
+White House Chief of Staff
+Alexander Haig
+August 1
+1974
+smoking gun
+Number One Observatory Circle
+Washington, D.C.
+Watergate tapes
+Chief Justice of the United States
+Warren Burger
+East Room
+August 9
+1974
+East Room (White House)
+White House
+August 20
+New York
+Nelson Rockefeller
+September 8
+1974
+pardon
+1974-09-08
+1974-09-08
+1974-09-08
+amnesty
+draft dodger
+Canada
+1977-01-21
+corrupt bargain
+quid pro quo
+Bob Woodward
+August 1
+1974
+United States presidential election, 1976
+The New York Times
+Jerald terHorst
+United States Congress
+October 17
+1974
+Burdick v. United States
+Supreme Court of the United States
+John F. Kennedy Library
+John F. Kennedy
+Profile in Courage Award
+2001-05-01
+United States Cabinet
+United States Secretary of State
+Henry Kissinger
+United States Secretary of the Treasury
+William E. Simon
+William T. Coleman, Jr.
+United States Secretary of Transportation
+African American
+Robert Clifton Weaver
+2005-01-15
+2006-12-31
+President of the United States
+Vice President of the United States
+Nelson Rockefeller
+United States Secretary of State
+Henry Kissinger
+United States Secretary of the Treasury
+William E. Simon
+United States Secretary of Defense
+James R. Schlesinger
+Donald Rumsfeld
+Attorney General of the United States
+William Saxbe
+Edward Levi
+United States Secretary of the Interior
+Rogers Morton
+Stanley K. Hathaway
+Thomas S. Kleppe
+United States Secretary of Agriculture
+Earl Butz
+John Albert Knebel
+United States Secretary of Commerce
+Frederick B. Dent
+Rogers Morton
+Elliot Richardson
+United States Secretary of Labor
+Peter J. Brennan
+John Thomas Dunlop
+William Usery, Jr.
+United States Secretary of Health, Education, and Welfare
+Caspar Weinberger
+F. David Mathews
+United States Secretary of Housing and Urban Development
+James Thomas Lynn
+Carla Anderson Hills
+United States Secretary of Transportation
+Claude Brinegar
+William Thaddeus Coleman, Jr.
+White House Chief of Staff
+Donald Rumsfeld
+Dick Cheney
+Office of Management and Budget
+Roy Ash
+James T. Lynn
+Office of the United States Trade Representative
+William D. Eberle
+Frederick B. Dent
+Administrator of the Environmental Protection Agency
+Russell E. Train
+United States Ambassador to the United Nations
+John A. Scali
+Daniel Patrick Moynihan
+William Scranton
+United States National Security Advisor
+Henry Kissinger
+Brent Scowcroft
+Director of Central Intelligence
+William E. Colby
+George H. W. Bush
+George H.W.",is,yes,0,1,0,1,1
+Was Gerald Ford the 38th President of the United States?,"Gerald Ford
+
+
+
+Gerald Rudolph Ford, Jr. (July 14, 1913   December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.",was,yes,1,1,0,1,1
+Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?,"Prior to 1973, Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives; he was originally elected to Congress in 1948 from Michigan's 5th congressional district.",did,yes,1,1,0,1,1
+Was Ford an Eagle Scout?,He is the only US president who was an Eagle Scout.,was,yes,0,1,0,1,1
+Has another US President been an Eagle Scout?,He is the only US president who was an Eagle Scout.,Not found,no,0,1,0,1,1
+Did Ford need to do extra work to pay for college?,"At Michigan, Ford became a member of the Delta Kappa Epsilon fraternity and washed dishes at his fraternity house to earn money for college expenses.",do,yes,0,1,0,1,1
+Have more than five Presidents lived past the age of 90?,"Had Ford won the election, he would have been disqualified by the 22nd Amendment from running in 1980, since he served more than 2 years of Nixon's term.",Not found,no,1,0,0,1,0
+Was Ford released from the hospital?,"On August 28, Ford was released from the hospital and returned with his wife Betty to their California home.",was,yes,0,1,0,1,1
+"Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?","After the service, Ford was interred at his Presidential Museum in Grand Rapids, Michigan.",was,yes,1,1,0,1,1
+Is Ford one of only four former Presidents to live to 90 or more years of age ?,*Ford is one of only four former Presidents to live to 90 or more years of age.,is,yes,1,1,1,1,1
+Was Ford the last surviving member of the Warren Commission ?,*Ford was the last surviving member of the Warren Commission.,was,yes,1,1,0,1,1
+"Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?","Grand Rapids supporters urged him to take on Bartel J. Jonkman, the incumbent Republican congressman.",did,no,1,1,0,0,1
+Does Ghana have twice the per capita output of the poorer countries in West Africa?,"Well endowed with natural resources, Ghana has twice the per capita output of the poorer countries in West Africa.",does,yes,0,1,1,1,1
+Is English Ghana's official language?,"All teaching is done in English, Ghana's official language.",is,yes,1,1,0,1,1
+Did the Dutch build the Elmina Castle?,"In 1482, the Portuguese built the Elmina Castle.",did,no,0,1,0,1,1
+Is Ghana in Asia?,"Ghana
+
+
+
+The Republic of Ghana is a country in West Africa.",is,no,0,0,0,1,0
+Is English the official language?,English is the country's official language and predominates government and business affairs.,is,yes,1,1,0,1,1
+Is Ghana's head of state John Agyekum Kufuor?,"Its head of state is President John Agyekum Kufuor, the ninth leader of the country since independence.",is,yes,0,1,0,1,1
+Does the Gray Wolf share an ancestry with the domestic dog?,As evidenced by studies of DNA sequencing and genetic drift the gray wolf shares a common ancestry with the domestic dog (Canis lupus familiaris).,does,yes,1,1,0,1,1
+Do wolf pups tend to have darker fur than adults?,"At birth, wolf pups tend to have darker fur and blue irises that will change to a yellow-gold or orange color when the pups are between 8 and 16 weeks old.",do,yes,0,1,0,1,1
+Do wolves leave their pack?,"Wolves typically reach sexual maturity after two or three years, at which point many of them will be compelled to leave their birth packs and seek out mates and territories of their own.",do,yes,0,1,0,1,1
+Are Gray Wolves native to North America?,"As the first-named and most widespread of species termed ""wolf"", gray wolves are often simply referred to as wolves.",are,yes,1,1,0,1,1
+Is the Gray Wolf a mammal?,"The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora.",is,yes,1,1,0,1,1
+Are a wolf's teeth its main weapons?,"Capable of delivering up to 10,000 kPa (1450 lbf/inÂ²) of pressure, a wolf's teeth are its main weapons as well as its primary tools.",are,yes,1,1,0,1,1
+Are wolves built for stamina?,"Wolves are built for stamina, possessing features ideal for long-distance travel.",are,yes,0,1,0,1,1
+Was Grover Cleveland born in New York?,"In 1871 Grover Cleveland was elected Sheriff of Erie County, New York.",was,no,1,1,0,1,1
+Did Grover Cleveland win the 1884 election?,"Statue of Grover Cleveland outside City Hall in Buffalo, New York
+
+
+
+* U.S. presidential election, 1884
+* U.S. presidential election, 1888
+* U.S. presidential election, 1892
+* History of the United States (1865-1918)
+
+
+
+* Cleveland, Grover.",did,yes,0,1,0,1,1
+Did Grover Cleveland support women's suffrage?,Cleveland was a stout opponent of the women's suffrage (voting) movement.,did,no,0,1,0,1,1
+Was Grover Cleveland the twenty-seventh president of the United States?,"Grover Cleveland
+
+ 
+Stephen Grover Cleveland (March 18 1837   June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).",was,no,1,1,0,0,1
+Is Grover Cleveland honest?,"Grover Cleveland
+
+ 
+Stephen Grover Cleveland (March 18 1837   June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).",is,yes,0,1,0,1,1
+Was Grover Cleveland married in the whitehouse?,"Grover Cleveland was the second President married in office, and the only President married in the White House itself 
+On June 2, 1886, Cleveland married Frances Cornelia Folsom, the daughter of his former law partner, in the Blue Room in the White House.",was,yes,0,0,0,0,0
+"When was he elected sheriff of Erire County, New York?","He was elected sheriff of Erie County, New York in 1870 and carried out at least two hangings of condemned criminals, refusing to delegate the unpleasant task to others.",was,yes,1,1,0,0,1
+Is it true that he sent in federal troops to chicago?,"He obtained an injunction in federal court, and when the strikers refused to obey it, he sent in federal troops to Chicago, Illinois and 20 other rail centers.",is,yes,1,1,0,1,1
+"Was Cleveland born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal?","Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.",was,yes,1,1,0,1,1
+"Was Grover Cleveland elected Sheriff of Erie County, New York?","In 1871 Grover Cleveland was elected Sheriff of Erie County, New York.",was,yes,1,1,0,1,1
+Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?,"Cleveland on the $1000 bill
+Cleveland's portrait was on the U.S. $1000 bill from 1928 to 1946.",was,yes,1,1,0,1,1
+Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,He is buried in the Princeton Cemetery of the Nassau Presbyterian Church.,is,yes,1,1,0,1,1
+Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,The Department of the Interior charged that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements.,did,yes,0,1,0,0,0
+"Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of his hard palate ?","The team, sedating Cleveland with nitrous oxide (laughing gas), removed his upper left jaw and portions of his hard palate.",did,yes,1,1,0,0,1
+Is it true that he married louise dÃ©sirÃ©e lorieux in 1890?,In 1890 he married Louise DÃ©sirÃ©e Lorieux.,is,yes,0,1,0,1,1
+Is it true that he shared the nobel prize in physics?,"In 1903, he shared the Nobel Prize in Physics with Pierre and Marie Curie ""in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity"".",is,yes,1,1,0,1,1
+Was Becquerel elected Permanent Secretary of the AcadÃ©mie des Sciences?,"In 1908, the year of his death, Becquerel was elected Permanent Secretary of the AcadÃ©mie des Sciences.",was,yes,1,1,0,1,1
+"Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?","Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.",was,yes,0,1,0,1,1
+Did he not die at the age of 55 in Le Croisic ?,He died at the age of 55 in Le Croisic.,did,yes,0,1,0,0,0
+Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?,"If one places between the phosphorescent substance and the paper a piece of money or a metal screen pierced with a cut-out design, one sees the image of these objects appear on the negative.",did,yes,0,1,0,0,0
+Is there a becquerel crater on the moon and a becquerel crater on mars?,"The SI unit for radioactivity, the becquerel (Bq), is named after him, and there is a Becquerel crater on the Moon and a Becquerel crater on Mars.",is,yes,0,1,0,1,1
+Are the Javanese the largest and politically dominant ethnic group in Indonesia?,The Javanese are the largest and politically dominant ethnic group.,are,yes,1,1,1,1,1
+Is Indonesia a monarchy with a presidential system?,Indonesia is a republic with a presidential system.,is,no,1,1,0,1,1
+Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?,"The Japanese invasion and subsequent occupation during WWII ended Dutch rule,  ;    and encouraged the previously suppressed Indonesian independence movement.",did,yes,1,1,0,1,1
+Does Indonesia have the world's hightest level of biodiversity?,"Despite its large population and densely populated regions, Indonesia has vast areas of wilderness that support the world's second highest level of biodiversity.",does,no,0,1,0,1,1
+Was Indonesia named after it became an independent country?,"With a population of over 234 million people, it is the world's fourth most populous country and the most populous Muslim-majority nation, although officially it is not an Islamic state.",was,no,0,1,0,1,1
+Is it true that indonesia has vast areas of wilderness?,"Despite its large population and densely populated regions, Indonesia has vast areas of wilderness that support the world's second highest level of biodiversity.",is,yes,1,1,0,1,1
+Is Indonesia a republic?,"Indonesia
+
+ 
+The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia.",is,yes,0,1,0,1,1
+Are Sports in Indonesia generally male-orientated?,Sports in Indonesia are generally male-orientated and spectator sports are often associated with illegal gambling.,are,yes,0,1,1,1,1
+Is Indonesia the world's largest archipelagic state?,"Comprising 17,508 islands, it is the world's largest archipelagic state.",is,yes,1,1,0,1,1
+Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?,Sports in Indonesia are generally male-orientated and spectator sports are often associated with illegal gambling.,are,yes,1,1,1,1,1
+Is Pencak Silat an Indonesian martial art ?,Pencak Silat is an Indonesian martial art.,is,yes,1,1,0,1,1
+Has Indonesia the world 's largest Muslim population ?,Indonesia has the world's largest Muslim population.,Not found,yes,1,1,0,1,1
+Is it the world 's largest archipelagic state?,"Comprising 17,508 islands, it is the world's largest archipelagic state.",is,yes,1,1,0,1,1
+Is it the world 's fourth most populous country and the most populous muslim-majority nation?,"With a population of over 234 million people, it is the world's fourth most populous country and the most populous Muslim-majority nation, although officially it is not an Islamic state.",is,yes,1,1,1,1,1
+Is indonesia a republic?,"Indonesia
+
+ 
+The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia.",is,yes,0,1,0,1,1
+Is James Monrow the fifth president of US?,"James_Monroe
+
+
+
+James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).",is,yes,1,1,0,1,1
+Did Monroe' wedding happen at the Trinity Church in New York?,"James Monroe married Elizabeth Kortright on February 16, 1786 at the Trinity Church in New York.",did,yes,1,1,0,1,1
+Was James Monroe President of the United States?,"James_Monroe
+
+
+
+James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).",was,yes,1,1,0,1,1
+Did James Monroe attend the College of William and Mary?,"(1898-1903)   online edition
+
+
+
+
+* Extensive essay on James Monroe and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs
+* White House Biography
+* James Monroe Biography and Fact File
+*  
+* 
+* The Presidential Home of James Monroe (College of William and Mary)
+* James Monroe Memorial Foundation
+* James Monroe Birthplace
+* James Monroe Scholarship Award
+* The Papers of James Monroe at the Avalon Project
+* Monroe Doctrine and related resources at the Library of Congress
+* James Monroe's Health and Medical History
+* James Monroe Birthplace Commission
+* InfoPlease- James Monroe
+* The Religion of James Monroe
+*
+
+
+
+Related Wikipedia Articles
+
+President of the United States
+March 4
+1817
+March 4
+1825
+James Madison
+John Quincy Adams
+Westmoreland County, Virginia
+New York City
+Episcopal Church USA
+Elizabeth Kortright Monroe
+Farmer
+Plantation
+United States Democratic-Republican Party
+Daniel D. Tompkins
+United States Secretary of State
+April 2
+1811
+September 30
+1814
+February 28
+1815
+March 4
+1817
+James Madison
+Robert Smith (cabinet)
+John Quincy Adams
+United States Secretary of War
+James Madison
+September 27
+1814
+March 2
+1815
+John Armstrong, Jr.
+William H. Crawford
+Governor of Virginia
+January 16
+1811
+April 5
+1811
+George William Smith (politician)
+George William Smith (politician)
+Governor of Virginia
+December 19
+1799
+December 1
+1802
+James Wood
+John Page
+April 28
+1758
+July 4
+1831
+President of the United States
+Florida
+Missouri Compromise
+Missouri
+Monroe Doctrine
+European
+Americas
+Westmoreland County, Virginia
+College of William and Mary
+Virginia
+Continental Army
+Battle of Trenton
+Washington Crossing the Delaware
+Fredericksburg, Virginia
+February 16
+1786
+Trinity Church, New York
+Virginia House of Delegates
+Continental Congress
+anti-Federalist
+Virginia Convention
+United States Senate
+White House
+U.S.",did,yes,0,1,0,1,1
+Did James Monroe fight in the Continental Army?,"After graduating from William and Mary in 1776, Monroe fought in the Continental Army, serving with distinction at the Battle of Trenton, where he was shot in his left shoulder.",did,yes,1,1,0,1,1
+What did James Monroe's letters not contain?,"Most appointments went to deserving Democratic-Republicans, but he did not try to use them to build the party's base.",did,no,0,0,1,1,0
+Is it true that he practiced law in fredericksburg?,"Following his military service, he practiced law in Fredericksburg, Virginia.",is,yes,0,1,0,1,1
+Was Monroe anticlerical?,"Unlike Jefferson, Monroe was not anticlerical.",was,no,1,0,0,1,0
+Was Monroe appointed Minister to France from 1794 to 1796?,"After his term in the Senate, Monroe was appointed Minister to France from 1794 to 1796.",was,yes,0,1,0,0,0
+Had Monroe racked up many debts during his years of public life ?,Monroe had racked up many debts during his years of public life.,Not found,yes,1,1,0,1,1
+"Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?","Watt is additionally commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh.",is,yes,1,1,0,1,1
+"Was watt a gentleman, greatly respected by other prominent men of the Industrial Revolution?","Watt was a gentleman, greatly respected by other prominent men of the Industrial Revolution.",was,yes,1,1,1,0,1
+Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?,"Watt celebrated as a statue in Chamberlain Square, outside Birmingham Central Library
+
+
+
+Watt was a fellow of the Royal Society of Edinburgh and the Royal Society of London.",was,yes,1,1,1,1,1
+Was Watt ranked 22nd in Michael H. Hart 's list of the most influential figures in history ?,Watt was ranked 22nd in Michael H. Hart's list of the most influential figures in history.,was,yes,1,1,1,1,1
+Did John Adams represent the Continental Congress in Europe?,"Congress chose Adams to represent the fledgling union in Europe in 1777, and again in 1779.",did,yes,0,1,0,1,1
+Was Adams raised Congregationalist?,"Adams was raised a Congregationalist, becoming a Unitarian at a time when most of the Congregational churches around Boston were turning to Unitarianism.",was,yes,0,1,0,1,1
+Was Adams an opponent of the Stamp Act?,"johna.jpg
+
+
+Adams first rose to prominence as an opponent of the Stamp Act of 1765.",was,yes,0,1,0,1,1
+Was Adams the first to introduce a bicameral legislature?,"It was also the first to feature a bicameral legislature, a clear and distinct executive with a partial (2/3) veto (although he was restrained by an executive council), and a distinct judicial branch.",was,yes,1,1,0,1,1
+Did John Adams get along with Alexander Hamilton?,"The French government, however, did not approve of Adamsâs appointment and subsequently, on the insistence of the French foreign minister, the Comte de Vergennes, Benjamin Franklin, Thomas Jefferson, John Jay and Henry Laurens were appointed to cooperate with Adams.",did,no,0,1,0,1,1
+Did John Adams go to Harvard? ,"The French government, however, did not approve of Adamsâs appointment and subsequently, on the insistence of the French foreign minister, the Comte de Vergennes, Benjamin Franklin, Thomas Jefferson, John Jay and Henry Laurens were appointed to cooperate with Adams.",did,yes,0,1,0,1,1
+Did John Adams support the Stamp Act of 1765?,"* Official NPS website:  Adams National Historical Park
+*  Extensive essay on John Adams and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs
+*  Quotes from John Adams on the proper role, and divine purpose of government at Our Republic
+
+
+
+Related Wikipedia Articles
+
+President of the United States
+March 4
+1797
+March 4
+1801
+George Washington
+Thomas Jefferson
+Quincy, Massachusetts
+Massachusetts
+Quincy, Massachusetts
+Massachusetts
+Abigail Adams
+Lawyer
+Harvard College
+John Quincy Adams
+United States Federalist Party
+Thomas Jefferson
+Unitarian
+Vice President of the United States
+April 21
+1789
+March 4
+1797
+George Washington
+Thomas Jefferson
+October 30
+1735
+July 4
+1826
+President of the United States
+Vice President of the United States
+U.S. presidential election, 1800
+United States presidential election, 1800
+Thomas Jefferson
+White House
+Washington, D.C.
+1800
+American Revolution
+Massachusetts
+Continental Congress
+Treaty of Paris (1783)
+United States Federalist Party
+Alexander Hamilton
+France
+Quasi-War
+Historical rankings of United States Presidents
+John Adams birthplace (Quincy, Massachusetts)
+Quincy, Massachusetts
+October 30
+1735
+October 19
+1735
+Julian calendar
+Braintree, Massachusetts
+Quincy, Massachusetts
+Adams National Historical Park
+Deacon
+Barton St David
+Somerset
+Massachusetts Bay Colony
+Welsh people
+Harvard College
+Worcester, Massachusetts
+James Otis
+Writ of Assistance
+Abigail Adams
+Congregationalism
+Weymouth, Massachusetts
+Abigail Adams Smith
+John Quincy Adams
+Charles Adams (1770-1800)
+Thomas Boylston Adams
+Samuel Adams
+republicanism
+Continental Congress
+United States Declaration of Independence
+Stamp Act 1765
+Braintree, Massachusetts
+Boston Gazette
+Stamp Act
+29th Regiment of Foot
+Boston Massacre
+Thomas Preston (British army officer)
+David McCullough
+murder
+manslaughter
+Massachusetts General Court
+United States Senate
+Thomas Hutchinson
+Daniel Leonard
+Continental Congress
+George Washington
+Continental Army
+October 5
+1775
+2005-11-02
+National Museum of American History
+May 15
+1776
+John Trumbull
+Thoughts on Government
+Thoughts on Government
+Republicanism in the United States
+Parliament of England
+Thoughts on Government
+Constitution of the United Kingdom
+bicameralism
+June 7
+1776
+Richard Henry Lee
+July 2
+1776
+Committee of Five
+Thomas Jefferson
+Benjamin Franklin
+Robert Livingston (1746-1813)
+Roger Sherman
+United States Declaration of Independence
+postage stamp
+minister plenipotentiary
+Charles Gravier, Comte de Vergennes
+Benjamin Franklin
+Thomas Jefferson
+John Jay
+Henry Laurens
+ambassador
+Netherlands
+Joan van der Capellen tot den Pol
+The Hague
+Friesland
+diplomatic recognition
+Nicolaas van Staphorst
+Wilhelm Willink
+Court of St. James's
+Great Britain
+George III of the United Kingdom
+Queen Elizabeth II
+A Defence of the Constitutions of Government of the United States
+Anne Robert Jacques Turgot, Baron de Laune
+popular sovereignty
+John Trumbull
+electoral college
+U.S. presidential election, 1789
+U.S. presidential election, 1792
+Martin Van Buren
+Richard Nixon
+Walter Mondale
+Al Gore
+Dick Cheney
+president of the Senate
+U.S. Vice President's tie-breaking votes
+John C. Calhoun
+George Washington
+Federalist Party (United States)
+Alexander Hamilton
+U.S. presidential election, 1796
+Thomas Jefferson
+Democratic-Republican Party (United States)
+Jay Treaty
+U.S. presidential election, 1796
+Federalist Party
+Thomas Pinckney
+Governor of South Carolina
+South Carolina
+United States Secretary of State
+Thomas Jefferson
+Virginia
+United States Senate
+Aaron Burr
+New York
+Democratic-Republican Party (United States)
+Quincy, Massachusetts
+Federalist Party
+Democratic-Republican Party (United States)
+civic virtue
+Napoleonic Wars
+Quasi-War
+XYZ Affair
+George Washington
+Alexander Hamilton
+USS Constitution
+Alien and Sedition Acts
+Naturalization Act of 1798
+June 18
+Alien and Sedition Acts
+June 24
+Alien and Sedition Acts
+July 6
+Alien and Sedition Acts
+July 14
+Sedition Act
+Aaron Burr
+standing army
+William Vans Murray
+Napoleon
+Treaty of Alliance (1778)
+John Marshall
+presidential election of 1800
+Thomas Jefferson
+Aaron Burr
+New York
+New York City
+Midnight Judges
+John Marshall
+Chief Justice of the United States
+United States Navy
+Quasi War
+Alien and Sedition Acts
+Inaugural Addresses of the Presidents of the United States
+March 4
+1797
+State of the Union Address
+November 22
+1797
+December 8
+1798
+December 3
+1799
+November 22
+1800
+Thomas Jefferson
+Timothy Pickering
+John Marshall
+Oliver Wolcott, Jr.
+Samuel Dexter
+James McHenry
+Samuel Dexter
+Charles Lee (Attorney General)
+Joseph Habersham
+Benjamin Stoddert
+Supreme Court of the United States
+Bushrod Washington
+Alfred Moore
+John Marshall
+Chief Justice of the United States
+Gilbert Stuart
+Benjamin Rush
+John Quincy Adams
+George W. Bush
+Congressman
+William Stephens Smith
+John Quincy Adams
+United First Parish Church, Quincy, Massachusetts
+July 4
+1826
+2006
+December 26
+United First Parish Church
+Ronald Reagan
+Gerald Ford
+December 26
+2006
+Congregational church
+Unitarian
+Unitarianism
+1796
+Thomas Paine
+Benjamin Rush
+Thomas Jefferson
+Jewish Encyclopedia
+Vice President of the United States
+Thomas Jefferson
+George Washington
+President of the United States
+United States Federalist Party
+Vice President of the United States
+U.S. presidential election, 1792
+Thomas Pinckney
+United States Federalist Party
+President of the United States
+U.S. presidential election, 1796
+U.S. presidential election, 1800
+Charles Cotesworth Pinckney
+United States Ambassador to the Netherlands
+Charles W.F.",did,no,0,1,0,1,1
+Is Adams' birthplace part of a national park?,His birthplace is now part of Adams National Historical Park.,is,yes,1,1,0,1,1
+Is it true that adams had spent some time as the ambassador?,"After these negotiations began, Adams had spent some time as the ambassador in the Netherlands, then the only other well-functioning Republic in the world.",is,yes,0,1,0,1,1
+Is it true that massachusetts sent him in 1774?,In 1774 Massachusetts sent him to the Continental Congress.,is,yes,0,0,0,1,0
+"Are his last words often quoted as "" Thomas Jefferson survives "" . ?","His last words are often quoted as ""Thomas Jefferson survives.""",are,yes,1,1,1,1,1
+"Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?","The election of 1800 became a bitter and volatile battle, with each side expressing extraordinary fear of the other party and its policies.",did,no,1,1,0,0,1
+Is a kangaroo a reptile?,"A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').",is,no,0,1,0,1,1
+Is a kangaroo on the Australian coat of arms?,"The kangaroo is an Australian icon: it is featured on the Australian coat of arms,  Australia's coat of arms URL accessed January 6, 2007.  on some of its currency,  The Australian currency URL accessed January 6, 2007.  and is used by many Australian organisations, including Qantas.",is,yes,1,1,0,1,1
+"Was James Cook the first to record the name ""Kangooroo?""","The name was first recorded as ""Kangooroo or Kanguru"" on 4 August,1770, by Lieutenant (later Captain) James Cook on the banks of the Endeavour River at the site of modern Cooktown, when HM Bark Endeavour was beached for almost seven weeks to repair damage sustained on the Great Barrier Reef.",was,yes,0,1,0,1,1
+Are wild kangaroos shot for meat?,"They are not farmed to any extent, but wild kangaroos are shot for meat, over which there is controversy.",are,yes,1,1,0,1,1
+Have kangaroos fared well since European settlement?,"Unlike many of the smaller macropods, kangaroos have fared well since European settlement.",Not found,yes,1,1,1,1,1
+Do kangaroos have many natural predators?,Kangaroos have few natural predators.,do,no,1,1,0,1,1
+Do kangaroos eat plants?,Different species of kangaroos eat different diets.,do,yes,0,0,0,1,0
+Are kangaroos and wallabies adept swimmers?,"Kangaroos and wallabies are adept swimmers, and often flee into waterways if presented with the option.",are,yes,0,1,0,1,1
+Are kangaroos farmed to any extent?,"They are not farmed to any extent, but wild kangaroos are shot for meat, over which there is controversy.",are,no,0,1,0,1,1
+Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?,Kangaroos dazzled by headlights or startled by engine noise have been known to leap in front of cars.,Not found,yes,0,1,0,1,1
+Is a collision with a vehicle capable of killing a kangaroo ?,A collision with a vehicle is capable of killing a kangaroo.,is,yes,1,1,0,1,1
+Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?,The game of Marn grook was played using a ball made from kangaroo  by the Kurnai people.,was,yes,0,1,0,1,1
+"Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?","Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head.",Not found,yes,1,1,0,1,1
+"Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?","A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').",is,yes,0,1,0,1,1
+Have larger kangaroos adapted much better to changes?,"In general, larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans and though many of their smaller cousins are endangered, they are plentiful.",Not found,yes,1,1,1,1,1
+Is the leopard smaller than the other members of Panthera?,"Although smaller than the other members of Panthera, the leopard is still able to take large prey given a massive skull that well utilizes powerful jaw muscles.",is,yes,1,1,0,0,1
+Is a leopard larger and less lanky than a cheetah?,The leopard is larger and less lanky than the cheetah but smaller than the jaguar.,is,yes,1,1,1,1,1
+Are large pythons potential prey for leopards?,Even large pythons are potential prey for leopards.,are,yes,1,1,0,1,1
+Is the leopard an Old World mammal?,"leopard
+
+
+
+The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.",is,yes,1,1,0,1,1
+Is the leopard of the Felidae family?,"leopard
+
+
+
+The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.",is,yes,1,1,0,1,1
+Is the leopard one of the four 'big cats'?,"leopard
+
+
+
+The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.",is,yes,0,1,0,1,1
+Does a male leopard weigh more than a female leopard?,"Leopard resting on a tree
+
+
+
+A male may follow a female who catches his attention.",does,yes,0,0,0,1,0
+Are leopards circular?,"Leopards that are melanistic, either all-black or very dark in coloration, are known colloquially as Black Panthers.",are,no,0,1,0,1,1
+Is the leopard solitary?,"The leopard is solitary and, aside from mating, interactions between individuals appear to be infrequent.",is,yes,0,1,0,1,1
+Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?,The New Zealand Rugby League has featured the Otahuhu Leopards and then the Tamaki Leopards.,Not found,yes,1,1,1,1,1
+Were the Leopard men a West African secret society who practised cannibalism ?,The Leopard men were a West African secret society who practised cannibalism.,who,yes,1,1,0,1,1
+Was the leopard tank a German designed tank which entered service in 1965 ?,The leopard tank was a German designed tank which entered service in 1965.,was,yes,1,1,0,1,1
+Is the black color heritable and caused by only one recessive gene locus ?,The black color is heritable and caused by only one recessive gene locus.,is,yes,1,1,1,1,1
+"Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?","leopard
+
+
+
+The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.",is,yes,1,1,0,1,1
+Can a panther be any of several species of large felid?,"A panther can be any of several species of large felid; in North America, the term refers to cougars, in South America, jaguars, and elsewhere, leopards.",can,yes,1,1,0,0,1
+Is the leopard an agile and graceful predator?,The leopard is an agile and graceful predator.,is,yes,1,1,0,1,1
+Is Liechtenstein bordered by Switzerland?,"Liechtenstein
+
+ 
+The Principality of Liechtenstein (  ( , ( ) is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east.",is,yes,0,1,0,1,1
+Is Liechtenstein the smallest German-speaking country in the world?,It is the smallest German-speaking country in the world.,is,yes,1,1,0,1,1
+Was Liechtenstein part of the ancient Roman province of Raetia?,"At one time, the territory of Liechtenstein formed a part of the ancient Roman province of Raetia.",was,yes,1,1,0,1,1
+Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,"Recently, Liechtenstein has shown strong determination to prosecute any international money-laundering and worked to promote the country's image as a legitimate financing center.",Not found,yes,1,1,0,1,1
+Is there an airport in Liechtenstein?,Air: There is no airport in Liechtenstein (the nearest large airport is ZÃ¼rich Airport).,is,no,0,1,0,1,1
+Is Liechtenstein heavily urbanized?,"Despite this, it is not heavily urbanized.",is,no,0,0,1,1,0
+Is Liechtenstein doubly landlocked?,"Liechtenstein
+
+ 
+The Principality of Liechtenstein (  ( , ( ) is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east.",is,yes,0,0,1,1,0
+Does Liechtenstein have an army?,Liechtenstein is one of the few countries in the world to have no army; defense is the responsibility of Switzerland.,does,no,0,1,0,1,1
+Does the state court rule on the conformity of laws?,The State Court rules on the conformity of laws with the constitution.,does,yes,0,1,0,1,1
+Was Liechtenstein completed in November 2000?,It was completed in November 2000 and forms a âblack boxâ of tinted concrete and black basalt stone.,was,no,0,0,0,0,0
+Is the museum collection also the national art collection of Liechtenstein ?,The museum collection is also the national art collection of Liechtenstein.,is,yes,1,1,1,1,1
+Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?,There is a small heliport at Balzers in Liechtenstein   available for charter helicopter flights.,is,yes,1,1,0,1,1
+Are nationals referred to by the plural : Liechtensteiners ?,Nationals are referred to by the plural: Liechtensteiners.,are,yes,1,1,0,1,1
+"Is it a winter sports resort , although it is perhaps best known as a tax haven ?","Mountainous, it is a winter sports resort, although it is perhaps best known as a tax haven.",is,yes,0,1,1,1,1
+Is it a winter sports resort?,"Mountainous, it is a winter sports resort, although it is perhaps best known as a tax haven.",is,yes,0,1,0,1,1
+Is it the smallest german-speaking country in the world?,It is the smallest German-speaking country in the world.,is,yes,1,1,0,1,1
+"Did Webster write, ""I can now sleep of nights""?","Webster wrote, ""I can now sleep of nights.""",can,yes,0,1,1,1,1
+Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?,Another issue that presented itself during Fillmore's presidency was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution).,was,yes,1,1,0,1,1
+"Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?","He died at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke.",did,yes,0,1,0,1,1
+Did Fillmore run for President a second time?,"A group of practical Whig politicians nominated Fillmore for vice president, believing that he would heal party wounds and help the ticket carry New York state.",did,yes,0,1,0,1,1
+Was Millard Fillmore the thirteenth President of the United States?,"Millard Fillmore
+
+
+
+Millard Fillmore (January 7, 1800   March 8, 1874) was the thirteenth President of the United States, serving from 1850 until 1853, and the last member of the Whig Party to hold that office.",was,yes,1,1,1,1,1
+"Was Millard Fillmore born on January 7, 1800?","Millard Fillmore
+
+
+
+Millard Fillmore (January 7, 1800   March 8, 1874) was the thirteenth President of the United States, serving from 1850 until 1853, and the last member of the Whig Party to hold that office.",was,yes,1,0,1,1,0
+"Did Millard Fillmore die on March 8, 1974?","* U.S. presidential election, 1848
+* U.S. presidential election, 1856
+* William Gannaway Brownlow
+
+
+
+
+*  Extensive essay on Millard Fillmore and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs
+*  First State of the Union Address
+*  Second State of the Union Address
+*  Third State of the Union Address
+*  White House Biography
+* Biography by Appleton's and Stanley L. Klos
+*  
+*  Millard Fillmore Internet Obituary
+*  Millard Fillmore House, Buffalo, NY
+*  Millard and Abigail Fillmore House, East Aurora, NY
+*  Millard Fillmore at Encyclopedia American: The American Presidency
+
+
+
+Related Wikipedia Articles
+
+President of the United States
+July 9
+1850
+March 4
+1853
+Zachary Taylor
+Franklin Pierce
+Summerhill, New York
+Buffalo, New York
+Abigail Fillmore
+Caroline Fillmore
+Lawyer
+Anti-Masonic Party
+Whig Party (United States)
+Know-Nothing
+Unitarian
+Vice President of the United States
+March 4
+1849
+July 9
+1850
+Zachary Taylor
+George M. Dallas
+William R. King
+January 7
+1800
+March 8
+1874
+President of the United States
+Whig Party (United States)
+Vice President of the United States
+Zachary Taylor
+gastroenteritis
+Whig Party (United States)
+U.S. presidential election, 1852
+United States presidential election, 1856
+Know Nothing
+log cabin
+Summerhill, New York
+Unitarian
+Chicago
+Scottish people
+Presbyterian
+Fuller (cloth-making)
+New York Guard
+New Hope Academy
+Abigail Fillmore
+February 26
+1826
+Millard Powers Fillmore
+Mary Abigail Fillmore
+Buffalo, New York
+bar (law)
+1823
+Aurora, Erie County, New York
+1834
+Nathan K. Hall
+United States Postmaster General
+New York
+State University of New York at Buffalo
+1828
+New York State Assembly
+Anti-Masonic Party
+1829
+1831
+Whig Party (United States)
+Thurlow Weed
+Twenty-third United States Congress
+1832
+1833
+1835
+1836
+Twenty-fifth United States Congress
+Twenty-sixth United States Congress
+Twenty-seventh United States Congress
+1843
+1842
+Texas
+Slave state
+Speaker of the United States House of Representatives
+1841
+United States House Committee on Ways and Means
+1841
+1843
+Tariff of 1842
+President of the United States
+John Tyler
+Whig Party (United States)
+Governor of New York
+1844
+New York State Comptroller
+1847
+1849
+Zachary Taylor
+Henry Clay
+U.S.-Mexican War
+running mate
+New York
+Thurlow Weed
+William H. Seward
+slavery
+Mexico
+Mexican-American War
+Compromise of 1850
+Henry S. Foote
+Mississippi
+Thomas Hart Benton (senator)
+Missouri
+Daniel Webster
+Democratic Party (United States)
+California
+Stephen A. Douglas
+August 6
+1850
+Texas
+New Mexico
+Wilmot Proviso
+Fugitive Slave Act
+Washington, D.C.
+September 20
+Louis Kossuth
+Hungary
+Commodore (USN)
+Matthew Perry (naval officer)
+Japan
+Franklin Pierce
+Daniel Webster
+Edward Everett
+Charles Magill Conrad
+Thomas Corwin
+John J. Crittenden
+Nathan K. Hall
+Samuel Dickinson Hubbard
+William A. Graham
+John P. Kennedy
+Thomas McKean Thompson McKennan
+Alexander Hugh Holmes Stuart
+Supreme Court of the United States
+Benjamin Robbins Curtis
+California
+Fugitive Slave Law of 1850
+Winfield Scott
+Buffalo, New York
+University at Buffalo, The State University of New York
+Chancellor (education)
+Mary Abigail Fillmore
+Europe
+Honorary doctorate
+Doctor of Civil Law
+University of Oxford
+Latin
+diploma
+Kansas-Nebraska Act
+Republican Party (United States)
+Abraham Lincoln
+American Party
+Know-Nothing movement
+United States presidential election, 1856
+Grover Cleveland
+Andrew Jackson Donelson
+Andrew Jackson
+February 10
+1858
+Caroline Fillmore
+American Civil War
+Abraham Lincoln
+Reconstruction
+Andrew Johnson
+militia
+Upstate New York
+March 8
+1874
+stroke
+January 7
+Forest Lawn Cemetery (Buffalo)
+Fillmore Glen State Park
+Fillmore County, Minnesota
+Fillmore County, Nebraska
+Fillmore, Utah
+Millard County, Utah
+Fillmore, California
+Buffalo, New York
+Williamsville, New York
+San Francisco, California
+Amarillo, Texas
+Phoenix, Arizona
+Mad Magazine
+Head of the Class
+ESPN
+Neil Everett
+Sportscenter
+Mallard Fillmore
+George Pendle
+Battle of the Alamo
+American Dragon
+Johnny Bravo
+Dave Barry
+White House
+bathtub
+H. L. Mencken
+December 28
+1917
+New York Evening Mail
+Bathtub hoax
+1855
+classical education
+Honorary doctorate
+Doctor of Civil Law
+Oxford University
+White House
+As of 2007
+Democratic Party (United States)
+Republican Party (United States)
+Abraham Lincoln
+National Union Party (United States)
+Andrew Johnson
+George Washington
+December 14
+1799
+indentured servant
+Fulling
+United States presidential election, 1848
+Zachary Taylor
+Millard Fillmore
+Lewis Cass
+William Orlando Butler
+Martin Van Buren
+Charles Francis Adams, Sr.
+United States presidential election, 1856
+James Buchanan
+John C. Breckinridge
+John C. Fremont
+William L. Dayton
+Millard Fillmore
+Andrew Jackson Donelson
+U.S. presidential election, 1848
+U.S. presidential election, 1856
+William Gannaway Brownlow
+John Winston Jones
+United States House Committee on Ways and Means#Chairpersons
+James Iver McKay
+Azariah Cutting Flagg
+New York State Comptroller
+Washington Hunt
+George M. Dallas
+Vice President of the United States
+William R. King
+Zachary Taylor
+President of the United States
+Franklin Pierce
+New York's 32nd congressional district
+Thomas C. Love
+Thomas C. Love
+New York's 32nd congressional district
+William A. Moseley
+Theodore Frelinghuysen
+United States Whig Party#Candidates
+U.S. presidential election, 1848
+William A. Graham
+Winfield Scott
+United States Whig Party#Candidates
+U.S. presidential election, 1856
+John Bell (Tennessee politician)
+Know-Nothing movement
+U.S. presidential election, 1856
+James Buchanan
+Oldest living United States president
+Andrew Johnson",did,no,0,1,0,0,0
+Was Fillmore one of the founders of the University of Buffalo?,Fillmore was one of the founders of the University of Buffalo.,was,yes,0,1,0,0,0
+Was Another primary objective of Fillmore to preserve the Union from the intensifying slavery debate?,Another primary objective of Fillmore was to preserve the Union from the intensifying slavery debate.,was,yes,1,1,0,1,1
+"Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?","Fillmore was the first Chancellor, a position he maintained while both Vice President and President.",was,no,0,1,0,0,0
+Is Fillmore the first of two presidents to have been an indentured servant ?,*Fillmore is the first of two presidents to have been an indentured servant.,is,yes,1,1,0,0,1
+Is the comic strip Mallard Fillmore named after the president ?,*The comic strip Mallard Fillmore is named after the president.,is,yes,1,1,0,1,1
+Was Fillmore the first U.S. President born after the death of a former president ?,"*Fillmore was the first U.S. President born after the death of a former president, as he was born three weeks after George Washington's death on December 14, 1799.",was,yes,1,1,0,0,1
+"Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?","Fillmore turned down the honor, explaining that he had neither the ""literary nor scientific attainment"" to justify the degree.",did,no,1,1,0,0,1
+Are there at least two films describing Tesla 's life ?,* There are at least two films describing Tesla's life.,are,yes,1,1,0,0,1
+Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?,A number of live theatrical plays based on Tesla's life have been produced and staged worldwide.,Not found,yes,1,1,0,1,1
+Do sea otters have long muscular tails?,"Most have sharp claws on their feet, and all but the sea otter have long muscular tails.",do,no,1,1,0,1,1
+Can otters survive in cold water?,Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.,can,yes,1,1,0,1,1
+Does the giant otter inhabit South Africa?,"The giant otter (Pteronura brasiliensis) inhabits South America, especially the Amazon river basin, but is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining.",does,no,1,1,0,1,1
+Is otter a kind of mammal?,An otter's den is called a holt.,is,yes,0,0,0,0,0
+Do otters live in water?,Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.,do,yes,0,1,0,1,1
+Do sea otters live along the Pacific coast?,"A sea otter in Morro Bay, California
+Sea otters (Enhydra lutris) live along the Pacific coast of North America.",do,yes,0,1,0,1,1
+Are otters totem animals?,"In some Native American cultures, otters are considered totem animals.",are,yes,1,1,0,1,1
+Are otters herbivores?,"otter
+
+
+
+Otters are amphibious (or in one case aquatic) carnivorous mammals.",are,no,0,1,0,1,1
+Is it true that otters eat a variety of fish?,"River otters eat a variety of fish and shellfish, as well as small land mammals and birds.",is,yes,0,1,0,1,1
+Are otters playful animals?,"Otters are playful animals, for example sliding repeatedly down snowy slopes, apparently from sheer enjoyment.",are,yes,1,1,0,1,1
+Are otters very active?,"Otters are very active, chasing prey in the water or searching the beds of rivers, lakes or the sea.",are,yes,1,1,1,1,1
+Are male otters dog-otters?,"Male otters are dog-otters, females are bitches and babies are cubs or pups.",are,yes,0,1,0,1,1
+Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?,The myth of Otter's Ransom    is the starting point of the Volsunga saga.,is,yes,0,1,0,1,1
+"Are Male otters dog-otters , females are bitches and babies are cubs or pups ?","Male otters are dog-otters, females are bitches and babies are cubs or pups.",are,yes,0,1,0,1,1
+Is an otter 's den called a holt ?,An otter's den is called a holt.,is,yes,0,1,0,1,1
+"Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?","Most otters have fish as the primary item in their diet, supplemented by frogs, crayfish and crabs.",Not found,yes,1,1,0,1,1
+Do penguins feed on krill?,"Most penguins feed on krill, fish, squid, and other forms of sealife caught while swimming underwater.",do,yes,0,1,0,1,1
+Do penguins live almost exclusively in the Southern Hemisphere?,"Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.",do,yes,1,1,1,1,1
+Are penguins afraid of humans?,"Tux the Linux kernel mascot
+
+Penguins are popular around the world, primarily for their unusually upright, waddling pace and (compared to other birds) lack of fear of humans.",are,no,0,1,0,1,1
+Are penguins birds?,"Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.",are,yes,0,1,0,1,1
+Do penguins have a better than average sense of hearing for birds?,Penguins have an average sense of hearing for birds (Wever et al 1969); this is used by parents and chicks to locate one another in crowded colonies (Jouventin et al 1999).,do,yes,1,1,0,1,1
+"Are penguins considered ""higher waterbirds""?","What seems clear is that penguins belong to a clade of Neoaves (living birds except paleognaths and fowl) which comprises what is sometimes called ""higher waterbirds"" to distinguish them from the more ancient waterfowl.",are,yes,1,1,0,1,1
+Is it true that each penguin gets a turn in the center?,They often huddle together to keep warm and rotate positions to make sure that each penguin gets a turn in the center of the heat pack.,is,yes,0,1,0,1,1
+Are all penguins countershaded?,"All penguins are countershaded - that is, they have a white underside and a dark (mostly black) upperside.",are,yes,0,1,0,1,1
+Are penguins at risk?,"Instead, penguins are at risk at sea from predators such as the leopard seal.",are,yes,0,1,0,1,1
+"Is it also possible that penguin comes from the Latin pinguis , fat ?","It is also possible that penguin comes from the Latin pinguis, âfatâ.",is,yes,1,1,1,1,1
+Have penguins an average sense of hearing for birds ?,Penguins have an average sense of hearing for birds (Wever et al 1969); this is used by parents and chicks to locate one another in crowded colonies (Jouventin et al 1999).,Not found,yes,1,1,0,1,1
+Can larger penguins dive deep in case of need ?,Larger penguins can dive deep in case of need.,can,yes,1,1,0,1,1
+"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?","The smallest penguin species is the Little Blue Penguin (also known as the Fairy Penguin), which stands around 40 cm tall (16 in) and weighs 1 kg (2.2 lb).",is,yes,1,1,1,1,1
+Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,The largest living species is the Emperor Penguin (Aptenodytes forsteri): adults average about 1.1 m (3 ft 7 in) tall and weigh 35 kg (75 lb) or more.,is,yes,1,1,0,1,1
+"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?","The smallest penguin species is the Little Blue Penguin (also known as the Fairy Penguin), which stands around 40 cm tall (16 in) and weighs 1 kg (2.2 lb).",is,yes,1,1,1,1,1
+Is polar bear a mammal?,"A semi-aquatic marine mammal, the polar bear has adapted for life on a combination of land, sea, and ice,    
+and is the apex predator within its range.",is,yes,1,1,0,1,1
+Is polar bear a carnivore?,"Orcinus orca Orca (Killer Whale) 
+As a carnivore which feeds largely upon fish-eating carnivores, the polar bear ingests large amounts of vitamin A, which is stored in their livers.",is,yes,1,1,0,1,1
+Does a polar bear live in the Arctic?,"The United States Geological Survey, for example, in November 2006, stated that the Arctic shrinkage in the Alaskan portion of the Beaufort Sea has led to a higher death rate for polar bear cubs.",does,yes,1,1,0,1,1
+Is a polar bear white in color?,"Orcinus orca Orca (Killer Whale) 
+As a carnivore which feeds largely upon fish-eating carnivores, the polar bear ingests large amounts of vitamin A, which is stored in their livers.",is,yes,1,1,0,1,1
+Is a polar bear at high risk of extinction?,The polar bear is a vulnerable species at high risk of extinction.,is,yes,1,1,0,1,1
+Do female polar bears weight more than the male?,"However, more recent genetic studies have shown that some clades of Brown Bear are more closely related to polar bears than to other brown bears, meaning that the polar bear is not a true species according to some species concepts.",do,no,1,1,1,1,1
+Are polar bears excellent swimmers?,Polar bears are excellent swimmers and have been seen in open Arctic waters as far as   from land.,are,yes,1,1,0,1,1
+Is the Polar Bear the mascot of Bowdoin college ?,The Polar Bear is the mascot of Bowdoin college.,is,yes,1,1,0,1,1
+Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,thumbPolar bears have been made both controversial and famous for their distinctive white fur and their habitat.,Not found,yes,1,1,0,1,1
+"Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?",Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time.,did,no,1,1,0,0,1
+Are Cubs born in December without awakening the mother ?,Cubs are born in December without awakening the mother.,are,yes,0,1,0,1,1
+Does Qatar rank as the eighth richest country in the world per capita?,Qatar ranks as the ninth richest country in the world per capita .,does,no,1,1,0,1,1
+Do nearly all Qataris profess Islam?,Nearly all Qataris profess Islam.,do,yes,1,1,1,1,1
+Can women legally drive in Qatar?,"Women can legally drive in Qatar, whereas they may not in Saudi Arabia.",can,yes,0,1,1,1,1
+Does the native pronunciation of Qatar sound like 'cutter'?,"An approximation of the native pronunciation falls between the English words 'cutter' and 'gutter', but not like 'guitar'.",does,yes,1,1,0,1,1
+Was Qatar University founded in 1973?,Qatar University was founded in 1973.,was,yes,0,1,0,1,1
+Is Qatar bordered by Saudi Arabia to the south?,It is bordered by Saudi Arabia to the south; otherwise the Persian Gulf surrounds the state.,is,yes,0,1,0,1,1
+Has Qatar a modern Telecommunication system centered in Doha ?,Qatar has a modern Telecommunication system centered in Doha.,Not found,yes,1,1,0,1,1
+Was Qatar University founded in 1973 ?,Qatar University was founded in 1973.,was,yes,0,1,0,1,1
+"Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?","The Qataris chose as their negotiator the respected entrepreneur and long-time resident of Doha, Muhammed bin Thani.",did,yes,1,1,0,0,1
+Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?,"While oil and gas will probably remain the backbone of Qatar's economy for some time to come, the country seeks to stimulate the private sector and develop a ""knowledge economy"".",Not found,yes,0,1,1,1,1
+"Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?","It has been created with a long term perspective to support the development of Qatar and the wider region, develop local and regional markets, and strengthen the links between the energy based economies and global financial markets.",Not found,yes,1,1,0,1,1
+Can these allophones not occur in these positions in english?,"The q and the t have no direct counterparts, but are closest to the unaspirated allophones of English k and t. However, since these allophones cannot occur in these positions in English, in this context they will sound more like English g and d. So the closest pronunciation, according to English phonemics, to the original Arabic might be   or  .",can,yes,0,1,1,1,1
+"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?","), officially the State of Qatar (Arabic:  Ø¯ÙÙØ© ÙØ·Ø±   transliterated as Dawlat Qatar), is an Arab emirate in Southwest Asia, occupying the small Qatar Peninsula on the northeasterly coast of the larger Arabian Peninsula.",is,yes,1,1,1,1,1
+Does Romania border Hungary?,"It shares a border with Hungary and Serbia to the west, Ukraine and the Republic of Moldova to the northeast, and Bulgaria to the south.",does,yes,0,0,0,1,0
+Is Romania a secular state?,"Romania is a secular state, thus having no national religion.",is,yes,1,1,0,1,1
+Is the president elected by popular vote?,"The president is elected by popular vote, and resides at Cotroceni Palace.",is,yes,1,1,0,1,1
+Is the Romanian economy doing well?,"RÄzvan Florian,  Romanian Universities and the Shanghai rankings Cluj-Napoca, RomÃ¢nia, p. 7-9
+
+
+
+
+Tower Center International in Bucharest is the tallest building in Romania
+With a GDP per capita (PPP) of $11,800  GDP per capita based on purchasing power parity Economic Indicators for Romania, 2004-2007, IMF World Economic Outlook, April 2007  estimated for 2007, Romania is considered an upper-middle income economy  World Bank Country Classification Groups, 2005  and has been part of the European Union since January 1, 2007.",is,yes,1,1,0,0,1
+Are there many Roma in Romania?,"There are also almost 400 unique species of mammals (of which Carpathian chamois are best known), birds, reptiles and amphibians in Romania.",are,no,0,1,0,0,0
+Does Romania share a border with Ukraine?,"It shares a border with Hungary and Serbia to the west, Ukraine and the Republic of Moldova to the northeast, and Bulgaria to the south.",does,yes,1,1,0,1,1
+Did Romania declare neutrality during World War I?,"PeleÅ Castle, retreat of Romanian monarchs
+
+
+
+
+In August 1914, when World War I broke out, Romania declared neutrality.",did,yes,0,1,0,1,1
+Does Romania share the same language with Moldova?,"U.S. Department of State - Background Note: Romania - U.S.-ROMANIAN RELATIONS
+
+Relations with Moldova are rather special, considering that the two countries practically share the same language, and a fairly common historical background.",does,yes,1,1,0,1,1
+"Is it true that romania has a population of 21,698,181?","According to the 2002 census, Romania has a population of 21,698,181 and, similarly to other countries in the region, is expected to gently decline in the coming years as a result of sub-replacement fertility rates.",is,yes,0,1,0,1,1
+Is Romania a semi-presidential unitary state?,Romania is a semi-presidential unitary state.,is,yes,1,1,0,1,1
+Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?,Romania is a semi-presidential democratic republic where executive functions are shared between the president and the prime minister.,are,yes,1,1,1,1,1
+Was Gellu Naum the leader of the surrealist movement in Romania ?,Gellu Naum was the leader of the surrealist movement in Romania.,was,yes,1,1,0,1,1
+Was the Bucharest Metro only opened in 1979 ?,The Bucharest Metro was only opened in 1979.,was,yes,1,1,1,1,1
+"Is romania -LRB- , -RRB- a country in southeastern europe?","Romania
+
+
+
+Romania ( ,  ) is a country in Southeastern Europe.",is,yes,1,1,0,1,1
+Is romania a semi-presidential unitary state?,Romania is a semi-presidential unitary state.,is,yes,1,1,0,1,1
+Do singaporeans enjoy squid?,"Singaporeans also enjoy a wide variety of seafood including crabs, clams, squid, and oysters.",do,yes,0,1,0,1,1
+Did Singapore's standard of living decrease since independence?,"Since independence, Singapore's standard of living has increased progressively.",did,no,0,1,0,1,1
+Did the media contribute 15.6% to Singapore's GDP in 2001?,"Comprising of the publishing, print, broadcasting, film, music, digital and IT media sectors, the media industry collectively employed about 38,000 people and contributed 1.56% to Singapore's gross domestic product (GDP) in 2001 with an annual turnover of S$10 billion.",did,no,0,1,0,1,1
+How is Singapore's climate characterized?,"The Constitution of the Republic of Singapore established the nation's political system as a representative democracy, while the country is recognized as a parliamentary republic.",how,no,0,1,0,0,0
+Is Singapore located at the southern tip of the Korean Penisula?,"Singapore
+
+
+
+Singapore ( ;  ;  ,  ), officially the Republic of Singapore ( ;  ;  ,  ), is an island nation located at the southern tip of the Malay Peninsula.",is,no,1,1,1,1,1
+Is Singapore a city-state?,"The Constitution of the Republic of Singapore established the nation's political system as a representative democracy, while the country is recognized as a parliamentary republic.",is,yes,0,0,0,0,0
+Has Sang Nila Utama visited Singapore?,"Recent studies of Singapore indicate that lions have never lived there (not even Asiatic lions), and the beast seen by Sang Nila Utama was likely a tiger, most likely the Malayan Tiger.",Not found,yes,1,1,0,0,1
+Was Lee Kuan Yew a successful leader of Singapore?,Yusof bin Ishak was sworn in as the first President of Singapore and Lee Kuan Yew remained prime minister.,was,yes,1,1,0,1,1
+Is it true that singapore has several long - standing disputes with malaysia?,"Singapore has several long-standing disputes with Malaysia over a number of issues:
+* water deliveries to Singapore
+* mutual maritime boundaries
+* air routes between Singapore Changi Airport and Kuala Lumpur International Airport
+* the Singapore-occupied islet known as Pedra Branca in Singapore and as Pulau Batu Puteh (White Rock Island) in Malaysia, located   off the east coast of Singapore with a land area of   (the island also comprises Middle Rocks which are two clusters of rocks situated   south of Pedra Branca, and South Ledge, a rock formation which can be seen only at low tide) 
+* relocating the Singapore station of Malaysia's Keretapi Tanah Melayu from Tanjong Pagar to Bukit Timah (see Malaysia-Singapore Points of Agreement of 1990) and moving Malaysia's immigration checkpoint from the railway station to the Causeway
+* withdrawal of Central Provident Funds by west Malaysians.",is,yes,1,1,0,0,1
+Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?,Singapore Changi Airport has a network of 81 airlines connecting Singapore to 185 cities in 58 countries.,Not found,yes,1,1,0,1,1
+Has Singapore a network of reservoirs and water catchment areas ?,Singapore has a network of reservoirs and water catchment areas.,Not found,yes,0,1,0,1,1
+"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?","Urbanization has eliminated many areas of former primary rainforest, with the only remaining area of primary rainforest being Bukit Timah Nature Reserve.",Not found,yes,1,1,0,1,1
+"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?","The economy depends heavily on exports refining imported goods, especially in manufacturing.",does,no,0,1,1,0,1
+"Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern tip of the malay peninsula?","Singapore
+
+
+
+Singapore ( ;  ;  ,  ), officially the Republic of Singapore ( ;  ;  ,  ), is an island nation located at the southern tip of the Malay Peninsula.",is,yes,1,1,1,1,1
+Is singapore the 17th wealthiest country in the world in terms of gdp per capita?,Singapore is the 17th wealthiest country in the world in terms of GDP per capita.,is,no,1,1,0,0,1
+Was Thedore Roosevelt  a member of the Republican Party?,"Theodore Roosevelt
+
+ 
+Theodore Roosevelt, Jr. ( ; October 27 1858   January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.",was,yes,1,1,0,0,1
+Does Theodore Roosevelt have a brother?,"Extensive online resources and bibliography
+*  Extensive essay on Theodore Roosevelt and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs
+*  NY Times Headline, January 6, 1919, Theodore Roosevelt Dies Suddenly at Oyster Bay Home; Nation Shocked, Pays Tribute to Former President; Our Flag on All Seas and in All Lands at Half Mast
+*  ""The Early Years: The Challenge of Public Order - 1845 to 1870"", by William Andrews,  New York City Police Department History Site
+*   ""Leadership of the City of New York Police Department 1845â1901"", - The New York City Police Department Museum 
+* PBS ""American Experience"" Theodore Roosevelt
+*  My Brother Theodore Roosevelt, 1921 By Corinne Roosevelt Robinson, a bestseller with a woman's and sister's point of view on TR.",does,yes,0,1,1,1,1
+Did Theodore Roosevelt go to Harvard?,"* Boone and Crockett Club, founded by Theodore Roosevelt
+* How to pronounce Theodore Roosevelt
+* Yesterday's News blog 1901 newspaper account of Roosevelt's ""Big Stick"" speech at the Minnesota State Fair
+* Archive of  Theodore Roosevelt Pictures
+* still of Theodore Roosevelt going on first aeroplane flight
+* different view of Theodore Roosevelt & Arch Hoxsey in Wright aeroplane St Louis October 1910
+*
+
+
+
+Related Wikipedia Articles
+
+President of the United States
+September 14
+1901
+March 4
+1909
+Twenty-fifth Amendment to the United States Constitution
+Charles W. Fairbanks
+William McKinley
+William Howard Taft
+Vice President of the United States
+March 4
+1901
+September 14
+1901
+William McKinley
+Garret Hobart
+Charles W. Fairbanks
+List of Governors of New York
+January 1
+1899
+December 31
+1900
+Timothy L. Woodruff
+Frank S. Black
+Benjamin Barker Odell, Jr.
+New York City
+Oyster Bay, New York
+New York
+Alice Hathaway Lee Roosevelt
+Edith Roosevelt
+Alice Roosevelt Longworth
+Theodore Roosevelt, Jr.
+Kermit Roosevelt
+Ethel Roosevelt Derby
+Archibald Bulloch Roosevelt
+Quentin Roosevelt
+Polymath
+author
+historian
+conservationist
+Civil servant
+History of United States Republican Party
+Dutch Reformed
+October 27
+1858
+January 6
+1919
+President of the United States
+History of the United States Republican Party
+Progressivism
+List of Governors of New York
+United States Navy
+Rough Riders
+Rough Riders
+Spanish-American War
+Amazon Basin
+William McKinley
+John F. Kennedy
+Progressive Era
+trust-busting
+trust (law)
+capitalism
+Square Deal
+conservation
+labor union
+William Howard Taft
+U.S. presidential election, 1912
+Progressive Party (United States, 1912)
+Woodrow Wilson
+conservative
+Panama Canal
+Nobel Prize
+Nobel Peace Prize
+Russo-Japanese War
+George Washington
+Thomas Jefferson
+Abraham Lincoln
+Mount Rushmore
+Historical rankings of United States Presidents
+Historical rankings of United States Presidents
+Theodore Roosevelt Birthplace National Historic Site
+Gramercy, New York
+New York City
+Theodore Roosevelt, Sr.
+Martha Bulloch
+Bamie Roosevelt
+Elliott Roosevelt I
+Eleanor Roosevelt
+Corinne Roosevelt Robinson
+newspaper
+Joseph Alsop
+Stewart Alsop
+American Revolution
+History of the United States Democratic Party
+History of the United States Republican Party
+philanthropy
+Abraham Lincoln
+American Civil War
+slavery
+Savannah, Georgia
+Confederate
+James Dunwoody Bulloch
+U.S. Navy
+Irvine Bulloch
+CSS Alabama
+asthma
+zoology
+Pinniped
+taxidermy
+March 6
+2006
+boxing
+Theodore Roosevelt, Sr.
+March 9
+2006
+biology
+French language
+German language
+mathematics
+Latin
+Greek language
+Harvard College
+magna cum laude
+science
+philosophy
+rhetoric
+ornithology
+eidetic memory
+Alpha Delta Phi
+Delta Kappa Epsilon
+C.S.",did,yes,0,1,0,1,1
+Did Theodore Roosevelt study Judo?,"* Tilchin, William N. Theodore Roosevelt and the British Empire: A Study in Presidential Statecraft (1997)
+
+
+
+* Theodore Roosevelt Association - Founded in 1920 by Roosevelt's friends and admirers to preserve his legacy.",did,no,0,1,0,1,1
+Did Roosevelt receive a Medal of Honor?,"#In 2001, he became the first and only President up to date to receive a Medal of Honor, making him the only person to date to win the world's highest peace honor, as well as his nation's top military honor.",did,yes,0,1,0,1,1
+Did Roosevelt study biology?,"What did not, however, conform to the views of Roosevelt's day was that race should never be the primary factor in someone of ability performing any job.",did,yes,0,0,0,1,0
+Did Roosevelt support racial integration in schools?,"In the The Winning of the West (1889â1896), Roosevelt's frontier thesis stressed the racial struggle between ""civilization"" and ""savagery.""",did,yes,1,0,0,1,0
+Was Roosevelt's family rich?,"Theodore's father, known in the family as ""Thee"", was a New York City philanthropist, merchant, and partner in the family glass-importing firm Roosevelt and Son.",was,yes,0,1,0,1,1
+Are turtles ectothermic?,"Like other reptiles, turtles are ectothermic (or ""cold-blooded"" Reptile blood isn't necessarily cold, as reptiles sun themselves and take other measures to stay warm.",are,yes,0,1,0,0,0
+Does the mother care for the young?,There are no known species wherein the mother cares for the young.,does,no,1,1,0,1,1
+Are turtles pets?,"Different animals are called turtles, tortoises, or terrapins in different varieties of English
+
+
+
+
+Turtles, particularly small terrestrial and freshwater turtles, are commonly kept as pets.",are,yes,0,1,0,1,1
+Do sea turtles lay eggs on dry sandy beaches?,Sea turtles lay their eggs on dry sandy beaches.,do,yes,1,1,0,1,1
+Are Pleurodira known as side-necked turtles?,"The Pleurodira are sometimes known as the side-necked turtles, a reference to the way they withdraw their heads into their shells.",are,yes,1,1,0,1,1
+Do turtles lay eggs underwater?,"Like other amniotes (reptiles, dinosaurs, birds, and mammals), they breathe air and don't lay eggs underwater, though many species live in or around water.",do,no,0,0,0,0,0
+Are turtle eggs leathery and soft?,"Turtles lay eggs, like other reptiles, which are slightly soft and leathery.",are,yes,1,1,0,1,1
+Are turtles being examined for longevity genes?,Immature sea turtles are not cared for by the adults.,are,yes,0,1,0,1,1
+Are the largest turtles aquatic?,The largest turtles are aquatic.,are,yes,1,1,0,1,1
+Is aquatic respiration in Australian freshwater turtles being studied?,Aquatic respiration in Australian freshwater turtles is currently being studied.,is,yes,1,1,0,1,1
+Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?,This has inspired genetic researchers to begin examining the turtle genome for longevity genes.,Not found,yes,1,1,0,1,1
+Can turtles take many years to reach breeding age ?,Turtles can take many years to reach breeding age.,can,yes,1,1,0,1,1
+Are Immature sea turtles not cared for by the adults ?,Immature sea turtles are not cared for by the adults.,are,yes,0,1,1,1,1
+"Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?","The Pleurodira are sometimes known as the side-necked turtles, a reference to the way they withdraw their heads into their shells.",are,yes,1,1,1,1,1
+"Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?","The Order Testudines includes both extant (living) and extinct species, the earliest known turtles being from around 215 million years ago,  /ref> making turtles one of the oldest reptile groups, and a much more ancient group than lizards and snakes.",does,yes,1,1,1,0,1
+Was Ulysses Grant a general in the American Civil War?,"11 (1862)
+Oxford, Mississippi
+December 17
+1862
+Vicksburg Campaign
+Tennessee
+Mississippi
+Kentucky
+James H. Wilson
+Bertram Korn
+U.S. presidential election, 1868
+President of the United States
+Chief Justice of the United States
+Salmon P. Chase
+March 4
+1873
+Schuyler Colfax
+Henry Wilson
+Elihu B. Washburne
+Hamilton Fish
+John A. Rawlins
+William T. Sherman
+William W. Belknap
+Alphonso Taft
+J. Donald Cameron
+George S. Boutwell
+William Adams Richardson
+Benjamin Bristow
+Lot M. Morrill
+Ebenezer R. Hoar
+Amos T. Akerman
+George Henry Williams
+Edwards Pierrepont
+Alphonso Taft
+John A. J. Creswell
+James William Marshall
+Marshall Jewell
+James N. Tyner
+Adolph E. Borie
+George M. Robeson
+Jacob D. Cox
+Columbus Delano
+Zachariah Chandler
+Supreme Court of the United States
+Edwin M. Stanton
+William Strong (judge)
+Joseph P. Bradley
+Ward Hunt
+Morrison Remick Waite
+Chief Justice of the United States
+Colorado
+August 1
+1876
+United States Department of Justice
+United States Solicitor General
+Chester A. Arthur
+Office of Personnel Management
+Surgeon General of the United States
+National Weather Service
+Queen Victoria
+Windsor Castle
+Prince Bismarck
+Emperor Meiji
+Empress ShÅken
+Imperial Palace
+Tokyo
+Meiji period
+Ryukyu Islands
+China
+Stalwart (politics)
+Roscoe Conkling
+Methodist
+Republican National Convention
+James A. Garfield
+New York City
+Ferdinand Ward
+Wall Street
+Grant &amp; Ward
+Esophageal cancer
+pension
+The Century Magazine
+Mark Twain
+Personal Memoirs of Ulysses S. Grant
+Julius Caesar
+July 23
+1885
+Wilton, New York
+Saratoga County, New York
+New York City
+Riverside Park (Manhattan)
+General Grant National Memorial
+mausoleum
+North America
+World War II
+tank
+Grant tank
+U.S. fifty-dollar bill
+Ulysses S. Grant Memorial
+Capitol Hill
+Washington, D.C.
+Grant Park (Chicago)
+Chicago
+the Bronx
+New York
+San Francisco, California
+Chinatown, San Francisco, California
+Bedford Avenue
+Crown Heights
+Brooklyn, N.Y.
+U.S. Grant Bridge
+Ohio River
+Portsmouth, Ohio
+U.S. Route 52
+Counties of the United States
+U.S. state
+Grant County, Arkansas
+Grant County, Kansas
+Grant County, Minnesota
+Grant County, Nebraska
+Grant County, New Mexico
+Grant County, North Dakota
+Grant County, Oklahoma
+Grant County, Washington
+Grant County, West Virginia
+Grant Parish, Louisiana
+Mayflower
+Richard Warren
+John Lothropp
+Benjamin Franklin
+abolitionist
+John Brown (abolitionist)
+Mathew Brady
+Willard Hotel
+lobbyist
+San Francisco
+National Rifle Association
+Jeffrey Shaara
+The Last Full Measure
+Michael Shaara
+The Killer Angels
+First Lady of the United States
+Julia Grant
+Strabismus
+bourbon whiskey
+Old Crow
+cucumbers
+vinegar
+breakfast
+James Wolfe
+French and Indian Wars
+King George II
+Groucho Marx
+You Bet Your Life
+Ulysses S. Grant IV
+University of California, Los Angeles
+The Golden Girls
+Cary Grant
+Wild Wild West
+Henry Wager Halleck
+Quiz Show
+United States presidential election, 1868
+United States presidential election, 1872
+History of the United States (1865-1918)
+Western Theater of the American Civil War
+Ulysses S. Grant Memorial
+Ulysses S. Grant Home
+Bruce Catton
+J. F. C. Fuller
+James M. McPherson
+Jean Edward Smith
+Allan Nevins
+Ed Bearss
+Bruce Catton
+J. F. C. Fuller
+Find A Grave
+West Point#Cullum Number
+Andrew Johnson
+President of the United States
+Rutherford B. Hayes
+Abraham Lincoln
+List of United States Republican Party presidential tickets
+U.S. presidential election, 1868
+U.S. presidential election, 1872
+Rutherford B. Hayes
+Army of the Tennessee
+William T. Sherman
+Henry W. Halleck
+Commanding General of the United States Army
+Andrew Johnson
+Oldest living United States president
+Rutherford B. Hayes
+United States
+soldier
+politician
+President of the United States
+April 27
+1822
+Point Pleasant, Ohio
+Clermont County, Ohio
+July 23
+1885
+Wilton, New York
+Saratoga County, New York",was,yes,1,1,0,1,1
+Was Grant's father-in-law a Democrat?,"Although Grant was essentially apolitical, his father-in-law was a prominent Democrat in St. Louis (a fact that lost Grant the good job of county engineer in 1859).",was,yes,0,1,0,1,1
+Did Ulysses win the Battle of Champion Hill?,"Lt. Gen. Ulysses S. Grant
+Knowing that the Confederates could no longer send reinforcements to the Vicksburg garrison, Grant turned west and won the Battle of Champion Hill.",did,yes,0,1,0,1,1
+Did Horace Greenley lose in the presidential elections of 1872?,"Early
+Shenandoah Valley
+Washington, D.C.
+Administration (government)
+Philip Sheridan
+Valley Campaigns of 1864
+Sherman's March to the Sea
+total war
+Carolinas Campaign
+Appomattox Court House
+April 9
+1865
+Kirby Smith
+Trans-Mississippi Department
+June 2
+1865
+Copperheads
+Democratic Party (United States)
+July 25
+1866
+General of the Army of the United States
+U.S. Army
+Andrew Johnson
+Edwin M. Stanton
+Tenure of Office Act
+History of the United States Republican Party
+Republican National Convention
+Chicago
+U.S. presidential election, 1868
+Horatio Seymour
+March 4
+1869
+March 4
+1877
+United States presidential election, 1872
+Liberal Republican Party (United States)
+Horace Greeley
+Reconstruction
+Redeemers
+Ku Klux Klan
+voting rights
+Fifteenth Amendment to the United States Constitution
+Dominican Republic
+Yellowstone National Park
+March 1
+1872
+March 29
+2006
+Christmas
+February 8
+1999
+Panic of 1873
+Robert Schenck
+Rutherford B. Hayes
+Samuel J. Tilden
+U.S. presidential election, 1876
+Henry Watterson
+Treaty of Washington (1871)
+Hamilton Fish
+CSS Alabama
+Dominican Republic
+U.S. Senate Committee on Foreign Relations
+Charles Sumner
+Horace Greeley
+Liberal Republican Party (United States)
+Liberian-Grebo War
+USS Alaska (1868)
+Liberia
+James Milton Turner
+Black Friday (1869)
+Jay Gould
+James Fisk (financier)
+Whiskey Ring
+Benjamin H. Bristow
+Orville E. Babcock
+United States Secretary of War
+William W. Belknap
+Native Americans in the United States
+trading post
+Sanborn Incident
+William Adams Richardson
+Cyrus I. Scofield
+CrÃ©dit Mobilier of America scandal
+Vice President of the United States
+Schuyler Colfax
+United States presidential election, 1872
+Henry Wilson
+Julia Grant
+Jesse Root Grant
+anti-Semitism
+General Order No.",did,yes,1,0,0,1,0
+Was Grant elected president as a Republican?,"In 1868, Grant was elected president as a Republican.",was,yes,1,1,0,1,1
+Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?,It was a two-sentence description that completely caught the essence of Ulysses S. Grant.,was,yes,1,1,1,1,1
+Was Grant 's favorite brand of bourbon whiskey Old Crow ?,* Grant's favorite brand of bourbon whiskey was Old Crow.,was,yes,1,1,0,1,1
+Had he smoked only sporadically ?,"Before that he had smoked only sporadically, but he could not give them all away, so he took up smoking them, a habit which may have contributed to the development of throat cancer later in his life; one story after the war claimed that he smoked over 10,000 in five years.",Not found,yes,0,0,1,1,0
+Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,The famous dragon gate at the entrance to the district is at the corner of Grant and Bush Street.,is,yes,1,1,0,1,1
+Is Uruguay located in the northwesten part of Africa?,", Eastern Republic of  Uruguay) is a country located in the southeastern part of South America.",is,no,0,1,0,1,1
+Is Uruguay's capital Montevideo?,"Uruguay's capital, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold; its natural harbor soon developed into a commercial center competing with Argentina's capital, Buenos Aires.",is,yes,0,1,0,1,1
+Does Uruguay have cold summers?,"and with Brazil:
+:Chuy Stream 13 kilometres (8.1 mi), straight line (Chuy) 8.7 kilometres (5.4 mi), San Miguel Stream 13 km (8.1 mi), MerÃ­n Lagoon, 280.1 km (174 mi) YaguarÃ³n River, 142.4 km (88.5 mi), YaguarÃ³n 'Chico' River 18.5 km (11.5 mi), 'Arrollo de la Mina' Stream 20.4 km (12.7 mi), AceguÃ¡ straight line 37.2 km (23.1 mi), San Luis Stream 31.3 km (19.4 mi), North Branch of the San Luis Stream 3.6 km (2.2 mi), Straight line 8 km (5 mi), 'CaÃ±ada del Cementerio' 4 km (2.5 mi), Straight lines 0.6 km (0.4 mi), 'Cuchilla de Santa Ana' SE 168.5 km (104.7 mi), Rivera-Livramento 4.8 km (3 mi), 'Cuchilla de Santa Ana' 20.8 km (12.9 mi), 'Cuchilla Negra' 4189.3 km (2603.1 mi), 'Arrollo de la Invernada' Stream 37.8 km (23.5 mi), Cuareim River 313.4 km (194.7 mi)  Servicio Geografico Militar
+
+
+
+The climate in Uruguay is temperate: it has warm summers and cold winters.",does,no,0,1,0,1,1
+Is uruguay's landscape mountainous?,"Uruguay's politics takes place in a framework of a presidential representative democratic republic, whereby the President of Uruguay is both head of state and head of government, and of a pluriform multi-party system.",is,no,0,0,0,1,0
+Is Uruguay located in South America?,", Eastern Republic of  Uruguay) is a country located in the southeastern part of South America.",is,yes,0,1,0,1,1
+Can citizens propose changes to the Constitution?,"The Uruguayan constitution allows citizens to challenge laws approved by Parliament by use of a Referendum, or to propose changes to the Constitution by the use of a Plebiscite.",can,yes,0,1,0,1,1
+Did Uruguay host the first ever World Cup?,"In 1930, Uruguay hosted the first ever World Cup and went on to win the competition, defeating Argentina 4-2 in the final.",did,yes,1,1,1,1,1
+Does Uruguay recognize same-sex civil unions?,In November 2007 it became the first Latin American country and the second in the American Continent to recognize same-sex civil unions at the national level.,does,yes,1,1,0,1,1
+Does Uruguay border French Guiana?,"At 176,214 square kilometres (68,036 square miles) of continental land and 142,199 square kilometres (54,903 sq mi) of jurisdictional waters and small river islands,  Instituto Nacional Estadistica  Uruguay is the second smallest sovereign nation in South America (after Suriname) and the third smallest territory (French Guiana is the smallest).",does,no,1,1,0,1,1
+Is Uruguay's warmest month June?,"The coolest month is June, while the warmest is January.",is,no,1,1,0,1,1
+Is Uruguay the smallest soverign nation in South America?,"At 176,214 square kilometres (68,036 square miles) of continental land and 142,199 square kilometres (54,903 sq mi) of jurisdictional waters and small river islands,  Instituto Nacional Estadistica  Uruguay is the second smallest sovereign nation in South America (after Suriname) and the third smallest territory (French Guiana is the smallest).",is,no,1,1,0,1,1
+Is Uruguay very common?,"Although snow is not very common, it snowed in 1913, 1918, 1963, 1989, 1992, and 2007.",is,no,1,0,1,1,0
+Is The climate in Uruguay temperate?,"and with Brazil:
+:Chuy Stream 13 kilometres (8.1 mi), straight line (Chuy) 8.7 kilometres (5.4 mi), San Miguel Stream 13 km (8.1 mi), MerÃ­n Lagoon, 280.1 km (174 mi) YaguarÃ³n River, 142.4 km (88.5 mi), YaguarÃ³n 'Chico' River 18.5 km (11.5 mi), 'Arrollo de la Mina' Stream 20.4 km (12.7 mi), AceguÃ¡ straight line 37.2 km (23.1 mi), San Luis Stream 31.3 km (19.4 mi), North Branch of the San Luis Stream 3.6 km (2.2 mi), Straight line 8 km (5 mi), 'CaÃ±ada del Cementerio' 4 km (2.5 mi), Straight lines 0.6 km (0.4 mi), 'Cuchilla de Santa Ana' SE 168.5 km (104.7 mi), Rivera-Livramento 4.8 km (3 mi), 'Cuchilla de Santa Ana' 20.8 km (12.9 mi), 'Cuchilla Negra' 4189.3 km (2603.1 mi), 'Arrollo de la Invernada' Stream 37.8 km (23.5 mi), Cuareim River 313.4 km (194.7 mi)  Servicio Geografico Militar
+
+
+
+The climate in Uruguay is temperate: it has warm summers and cold winters.",is,yes,0,1,0,1,1
+Is the main sport in Uruguay football ?,The main sport in Uruguay is football.,is,yes,1,1,0,1,1
+"Is Uruguay 's oldest church in San Carlos , Maldonado ?","/ref>
+
+
+
+Uruguay's oldest church is in San Carlos, Maldonado.",is,yes,1,1,0,1,1
+Is Uruguay a member of the Cairns Group of exporters of agricultural products ?,Uruguay is a member of the Cairns Group of exporters of agricultural products.,is,yes,1,1,0,1,1
+Is it widely considered the most secular nation in Latin America ?,It is widely considered the most secular nation in Latin America.,is,yes,1,1,1,1,1
+"Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?","It is the second smallest independent country in South America, larger only than Suriname and the French overseas department of French Guiana.",is,yes,1,1,1,1,1
+"Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?","It is a constitutional democracy, where the president fulfills the roles of both head of state and head of government
+
+The economy is largely based in agriculture (making up 10% of the GDP and the most substantial export) and the state-sector, and relies heavily on world trade.",is,yes,1,1,1,1,1
+Was Woodrow Wilson the thirtieth President of the United States?,"Woodrow Wilson
+
+
+
+Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.",was,no,1,1,0,1,1
+Did Woodrow Wilson create the League of Nations?,"American Rhetoric,  ""Final Address in Support of the League of Nations"", Woodrow Wilson, delivered 25 Sept 1919 in Pueblo, CO.  John B. Duff, ""German-Americans and the Peace, 1918-1920"" American Jewish Historical Quarterly 1970 59(4): 424-459. and Duff, ""The Versailles Treaty and the Irish-Americans"" Journal of American History 1968 55(3): 582-598.",did,yes,0,1,0,1,1
+Did the U.S. join the League of Nations?,"The League of Nations went into operation anyway, but the U.S. never joined.",did,no,0,1,0,1,1
+Was Wilson a member of the Phi Kappa Psi fraternity?,Wilson was also a member of the Phi Kappa Psi fraternity.,was,yes,0,1,0,0,0
+Was Wilson an automobile enthusiast?,"The final resting place of Woodrow Wilson at the Washington National Cathedral
+* Wilson was an early automobile enthusiast, and he took daily rides while he was President.",was,yes,0,1,0,1,1
+Did Wilson's father own slaves?,"In the end, Wilson's own Congress did not accept the League and only four of the original Fourteen Points were implemented fully in Europe.",did,yes,1,1,0,1,1
+Did Wilson support desegregation?,"Quoted in Palestine: The Original Sin , Meir Abelson
+
+
+
+Until Wilson announced his support for suffrage, a group of women calling themselves Silent Sentinels protested in front of the White House, holding banners such as ""Mr. President What will you do for woman suffrage?""",did,no,0,1,0,1,1
+Did Wilson support the committee system?,"Congressional Government, 186â7
+
+The longest section of Congressional Government is on the United States House of Representatives, where Wilson pours out scorn for the committee system.",did,no,0,1,0,1,1
+Did Wilson have any siblings?,"Historians generally have come to regard Wilson's failure to win U.S. entry into the League as perhaps the biggest mistake of his administration, and even as one of the largest failures of any American presidency.",did,yes,0,1,0,1,1
+Was Wilson awarded the 1919 Nobel Peace Prize?,"For his peacemaking efforts, Wilson was awarded the 1919 Nobel Peace Prize.",was,yes,1,1,0,1,1
+Was Wilson a remarkably effective writer and thinker?,"Woodrow Wilson and his cabinet in the Cabinet Room
+
+
+
+Wilson appointed the following Justices to the Supreme Court of the United States:
+
+*James Clark McReynolds   1914
+*Louis Dembitz Brandeis   1916
+*John Hessin Clarke   1916'''
+
+
+
+The official White House portrait of President Woodrow Wilson
+Wilson was a remarkably effective writer and thinker and his diplomatic policies had a profound influence on shaping the world.",was,yes,1,1,1,0,1
+Was Wilson president of the American Political Science Association in 1910 ?,* Wilson was president of the American Political Science Association in 1910.,was,yes,1,1,0,1,1
+"Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?","Instead, he cast his ballot for John M. Palmer, the presidential candidate of the National Democratic Party, or Gold Democrats, a short-lived party that supported a gold standard, low tariffs, and limited government.",did,yes,1,1,0,0,1
+Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?,Wilson spent 1914 through the beginning of 1917 trying to keep America out of the war in Europe.,did,yes,0,1,0,0,0
+"Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?","Wilson, a staunch opponent of antisemitism , was sympathetic to the plight of Jews, especially in Poland and in France.",was,yes,1,1,1,1,1

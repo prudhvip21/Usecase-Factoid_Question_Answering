@@ -40,3 +40,4 @@ data_new['ans_yn'] = data_new.apply(lambda x : yes_no(x), axis = 1)
 data_new['ans_yn'].value_counts()
 
 yn_data = data_new[data_new['ans_yn'].isin(['yes','no'])]
+data_new.reset_index(drop = True, inplace= True)
